@@ -1,0 +1,4493 @@
+[
+  {
+    "id": 1,
+    "title": "Monsson Sale - 30% Off",
+    "description": "Promote a seasonal summer discount with bright visuals and a bold call-to-action.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-02T10:09:46.008792",
+    "usage_count": 120
+  },
+  {
+    "id": 2,
+    "title": "New Product Launch Campaign",
+    "description": "Announce a new product launch with engaging visuals and early-bird offers.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-27T10:09:46.008792",
+    "usage_count": 340
+  },
+  {
+    "id": 3,
+    "title": "Black Friday Mega Sale",
+    "description": "High-conversion ad template for Black Friday and flash sales.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-02T10:09:46.008792",
+    "usage_count": 980
+  },
+  {
+    "id": 4,
+    "title": "Festive Season Special Offer",
+    "description": "Promote festive discounts with colorful graphics and celebratory messaging.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-12-12T10:09:46.008792",
+    "usage_count": 410
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Download Ad",
+    "description": "Drive app installs with clear value propositions and download CTAs.",
+    "category": "App Marketing",
+    "language": "en",
+    "created_at": "2025-12-20T10:09:46.008792",
+    "usage_count": 260
+  },
+  {
+    "id": 6,
+    "title": "End of Season Clearance",
+    "description": "Clear inventory with urgency-driven discount messaging.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-17T10:09:46.008792",
+    "usage_count": 510
+  },
+  {
+    "id": 7,
+    "title": "Limited Time Offer",
+    "description": "Create urgency with countdown-style limited time promotions.",
+    "category": "Promotions",
+    "language": "en",
+    "created_at": "2025-12-24T10:09:46.008792",
+    "usage_count": 305
+  },
+  {
+    "id": 8,
+    "title": "Subscription Signup Campaign",
+    "description": "Encourage newsletter or subscription signups with incentives.",
+    "category": "Lead Generation",
+    "language": "en",
+    "created_at": "2025-12-14T10:09:46.008792",
+    "usage_count": 190
+  },
+  {
+    "id": 9,
+    "title": "Back to School Sale",
+    "description": "Target students and parents with school season discounts.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-23T10:09:46.008792",
+    "usage_count": 430
+  },
+  {
+    "id": 10,
+    "title": "E-commerce Free Shipping Ad",
+    "description": "Boost conversions by highlighting free shipping benefits.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-17T10:09:46.008792",
+    "usage_count": 390
+  },
+  {
+    "id": 11,
+    "title": "Marketing campaign template 11",
+    "description": "Versatile advertising template designed for campaign 11, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-18T10:09:46.008792",
+    "usage_count": 239
+  },
+  {
+    "id": 12,
+    "title": "Marketing campaign template 12",
+    "description": "Versatile advertising template designed for campaign 12, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-10T10:09:46.008792",
+    "usage_count": 336
+  },
+  {
+    "id": 13,
+    "title": "Marketing campaign template 13",
+    "description": "Versatile advertising template designed for campaign 13, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-06T10:09:46.008792",
+    "usage_count": 436
+  },
+  {
+    "id": 14,
+    "title": "Marketing campaign template 14",
+    "description": "Versatile advertising template designed for campaign 14, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-02T10:09:46.008792",
+    "usage_count": 208
+  },
+  {
+    "id": 15,
+    "title": "Marketing campaign template 15",
+    "description": "Versatile advertising template designed for campaign 15, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-08-05T10:09:46.008792",
+    "usage_count": 23
+  },
+  {
+    "id": 16,
+    "title": "Marketing campaign template 16",
+    "description": "Versatile advertising template designed for campaign 16, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-10T10:09:46.008792",
+    "usage_count": 371
+  },
+  {
+    "id": 17,
+    "title": "Marketing campaign template 17",
+    "description": "Versatile advertising template designed for campaign 17, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-22T10:09:46.008792",
+    "usage_count": 166
+  },
+  {
+    "id": 18,
+    "title": "Marketing campaign template 18",
+    "description": "Versatile advertising template designed for campaign 18, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-16T10:09:46.008792",
+    "usage_count": 169
+  },
+  {
+    "id": 19,
+    "title": "Marketing campaign template 19",
+    "description": "Versatile advertising template designed for campaign 19, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-05T10:09:46.008792",
+    "usage_count": 355
+  },
+  {
+    "id": 20,
+    "title": "Marketing campaign template 20",
+    "description": "Versatile advertising template designed for campaign 20, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-31T10:09:46.008792",
+    "usage_count": 55
+  },
+  {
+    "id": 21,
+    "title": "Marketing campaign template 21",
+    "description": "Versatile advertising template designed for campaign 21, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-30T10:09:46.008792",
+    "usage_count": 111
+  },
+  {
+    "id": 22,
+    "title": "Marketing campaign template 22",
+    "description": "Versatile advertising template designed for campaign 22, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-25T10:09:46.008792",
+    "usage_count": 463
+  },
+  {
+    "id": 23,
+    "title": "Marketing campaign template 23",
+    "description": "Versatile advertising template designed for campaign 23, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-07T10:09:46.008792",
+    "usage_count": 20
+  },
+  {
+    "id": 24,
+    "title": "Marketing campaign template 24",
+    "description": "Versatile advertising template designed for campaign 24, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-03-10T10:09:46.008792",
+    "usage_count": 334
+  },
+  {
+    "id": 25,
+    "title": "Marketing campaign template 25",
+    "description": "Versatile advertising template designed for campaign 25, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-23T10:09:46.008792",
+    "usage_count": 431
+  },
+  {
+    "id": 26,
+    "title": "Marketing campaign template 26",
+    "description": "Versatile advertising template designed for campaign 26, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-24T10:09:46.008792",
+    "usage_count": 268
+  },
+  {
+    "id": 27,
+    "title": "Marketing campaign template 27",
+    "description": "Versatile advertising template designed for campaign 27, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-11T10:09:46.008792",
+    "usage_count": 373
+  },
+  {
+    "id": 28,
+    "title": "Marketing campaign template 28",
+    "description": "Versatile advertising template designed for campaign 28, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-08-18T10:09:46.008792",
+    "usage_count": 456
+  },
+  {
+    "id": 29,
+    "title": "Marketing campaign template 29",
+    "description": "Versatile advertising template designed for campaign 29, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-16T10:09:46.008792",
+    "usage_count": 159
+  },
+  {
+    "id": 30,
+    "title": "Marketing campaign template 30",
+    "description": "Versatile advertising template designed for campaign 30, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-01T10:09:46.008792",
+    "usage_count": 11
+  },
+  {
+    "id": 31,
+    "title": "Marketing campaign template 31",
+    "description": "Versatile advertising template designed for campaign 31, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-11T10:09:46.008792",
+    "usage_count": 413
+  },
+  {
+    "id": 32,
+    "title": "Marketing campaign template 32",
+    "description": "Versatile advertising template designed for campaign 32, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-22T10:09:46.008792",
+    "usage_count": 91
+  },
+  {
+    "id": 33,
+    "title": "Marketing campaign template 33",
+    "description": "Versatile advertising template designed for campaign 33, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-13T10:09:46.008792",
+    "usage_count": 206
+  },
+  {
+    "id": 34,
+    "title": "Marketing campaign template 34",
+    "description": "Versatile advertising template designed for campaign 34, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-07-26T10:09:46.008792",
+    "usage_count": 105
+  },
+  {
+    "id": 35,
+    "title": "Marketing campaign template 35",
+    "description": "Versatile advertising template designed for campaign 35, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-26T10:09:46.008792",
+    "usage_count": 497
+  },
+  {
+    "id": 36,
+    "title": "Marketing campaign template 36",
+    "description": "Versatile advertising template designed for campaign 36, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-07-20T10:09:46.008792",
+    "usage_count": 450
+  },
+  {
+    "id": 37,
+    "title": "Marketing campaign template 37",
+    "description": "Versatile advertising template designed for campaign 37, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-13T10:09:46.008792",
+    "usage_count": 469
+  },
+  {
+    "id": 38,
+    "title": "Marketing campaign template 38",
+    "description": "Versatile advertising template designed for campaign 38, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-06-18T10:09:46.008792",
+    "usage_count": 367
+  },
+  {
+    "id": 39,
+    "title": "Marketing campaign template 39",
+    "description": "Versatile advertising template designed for campaign 39, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-03-29T10:09:46.008792",
+    "usage_count": 298
+  },
+  {
+    "id": 40,
+    "title": "Marketing campaign template 40",
+    "description": "Versatile advertising template designed for campaign 40, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-20T10:09:46.008792",
+    "usage_count": 159
+  },
+  {
+    "id": 41,
+    "title": "Marketing campaign template 41",
+    "description": "Versatile advertising template designed for campaign 41, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-17T10:09:46.008792",
+    "usage_count": 131
+  },
+  {
+    "id": 42,
+    "title": "Marketing campaign template 42",
+    "description": "Versatile advertising template designed for campaign 42, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-12-06T10:09:46.008792",
+    "usage_count": 303
+  },
+  {
+    "id": 43,
+    "title": "Marketing campaign template 43",
+    "description": "Versatile advertising template designed for campaign 43, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-07T10:09:46.008792",
+    "usage_count": 50
+  },
+  {
+    "id": 44,
+    "title": "Marketing campaign template 44",
+    "description": "Versatile advertising template designed for campaign 44, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-12-11T10:09:46.008792",
+    "usage_count": 352
+  },
+  {
+    "id": 45,
+    "title": "Marketing campaign template 45",
+    "description": "Versatile advertising template designed for campaign 45, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-19T10:09:46.008792",
+    "usage_count": 245
+  },
+  {
+    "id": 46,
+    "title": "Marketing campaign template 46",
+    "description": "Versatile advertising template designed for campaign 46, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-08-07T10:09:46.008792",
+    "usage_count": 471
+  },
+  {
+    "id": 47,
+    "title": "Marketing campaign template 47",
+    "description": "Versatile advertising template designed for campaign 47, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-15T10:09:46.008792",
+    "usage_count": 48
+  },
+  {
+    "id": 48,
+    "title": "Marketing campaign template 48",
+    "description": "Versatile advertising template designed for campaign 48, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-30T10:09:46.008792",
+    "usage_count": 325
+  },
+  {
+    "id": 49,
+    "title": "Marketing campaign template 49",
+    "description": "Versatile advertising template designed for campaign 49, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-12-22T10:09:46.008792",
+    "usage_count": 362
+  },
+  {
+    "id": 50,
+    "title": "Marketing campaign template 50",
+    "description": "Versatile advertising template designed for campaign 50, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-14T10:09:46.008792",
+    "usage_count": 356
+  },
+  {
+    "id": 51,
+    "title": "Marketing campaign template 51",
+    "description": "Versatile advertising template designed for campaign 51, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-28T10:09:46.008792",
+    "usage_count": 377
+  },
+  {
+    "id": 52,
+    "title": "Marketing campaign template 52",
+    "description": "Versatile advertising template designed for campaign 52, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-04-05T10:09:46.008792",
+    "usage_count": 492
+  },
+  {
+    "id": 53,
+    "title": "Marketing campaign template 53",
+    "description": "Versatile advertising template designed for campaign 53, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-28T10:09:46.008792",
+    "usage_count": 167
+  },
+  {
+    "id": 54,
+    "title": "Marketing campaign template 54",
+    "description": "Versatile advertising template designed for campaign 54, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-20T10:09:46.008792",
+    "usage_count": 467
+  },
+  {
+    "id": 55,
+    "title": "Marketing campaign template 55",
+    "description": "Versatile advertising template designed for campaign 55, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-25T10:09:46.008792",
+    "usage_count": 221
+  },
+  {
+    "id": 56,
+    "title": "Marketing campaign template 56",
+    "description": "Versatile advertising template designed for campaign 56, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-08-30T10:09:46.008792",
+    "usage_count": 397
+  },
+  {
+    "id": 57,
+    "title": "Marketing campaign template 57",
+    "description": "Versatile advertising template designed for campaign 57, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-16T10:09:46.008792",
+    "usage_count": 89
+  },
+  {
+    "id": 58,
+    "title": "Marketing campaign template 58",
+    "description": "Versatile advertising template designed for campaign 58, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-05-12T10:09:46.008792",
+    "usage_count": 325
+  },
+  {
+    "id": 59,
+    "title": "Marketing campaign template 59",
+    "description": "Versatile advertising template designed for campaign 59, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-07-08T10:09:46.008792",
+    "usage_count": 461
+  },
+  {
+    "id": 60,
+    "title": "Marketing campaign template 60",
+    "description": "Versatile advertising template designed for campaign 60, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-19T10:09:46.008792",
+    "usage_count": 68
+  },
+  {
+    "id": 61,
+    "title": "Marketing campaign template 61",
+    "description": "Versatile advertising template designed for campaign 61, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-04T10:09:46.008792",
+    "usage_count": 166
+  },
+  {
+    "id": 62,
+    "title": "Marketing campaign template 62",
+    "description": "Versatile advertising template designed for campaign 62, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-07-20T10:09:46.008792",
+    "usage_count": 355
+  },
+  {
+    "id": 63,
+    "title": "Marketing campaign template 63",
+    "description": "Versatile advertising template designed for campaign 63, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-05T10:09:46.008792",
+    "usage_count": 422
+  },
+  {
+    "id": 64,
+    "title": "Marketing campaign template 64",
+    "description": "Versatile advertising template designed for campaign 64, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-21T10:09:46.008792",
+    "usage_count": 81
+  },
+  {
+    "id": 65,
+    "title": "Marketing campaign template 65",
+    "description": "Versatile advertising template designed for campaign 65, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-27T10:09:46.008792",
+    "usage_count": 17
+  },
+  {
+    "id": 66,
+    "title": "Marketing campaign template 66",
+    "description": "Versatile advertising template designed for campaign 66, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-07-01T10:09:46.008792",
+    "usage_count": 316
+  },
+  {
+    "id": 67,
+    "title": "Marketing campaign template 67",
+    "description": "Versatile advertising template designed for campaign 67, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-08-22T10:09:46.008792",
+    "usage_count": 289
+  },
+  {
+    "id": 68,
+    "title": "Marketing campaign template 68",
+    "description": "Versatile advertising template designed for campaign 68, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-18T10:09:46.008792",
+    "usage_count": 59
+  },
+  {
+    "id": 69,
+    "title": "Marketing campaign template 69",
+    "description": "Versatile advertising template designed for campaign 69, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-30T10:09:46.008792",
+    "usage_count": 63
+  },
+  {
+    "id": 70,
+    "title": "Marketing campaign template 70",
+    "description": "Versatile advertising template designed for campaign 70, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-03-13T10:09:46.008792",
+    "usage_count": 89
+  },
+  {
+    "id": 71,
+    "title": "Marketing campaign template 71",
+    "description": "Versatile advertising template designed for campaign 71, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-10-27T10:09:46.008792",
+    "usage_count": 25
+  },
+  {
+    "id": 72,
+    "title": "Marketing campaign template 72",
+    "description": "Versatile advertising template designed for campaign 72, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-01-22T10:09:46.008792",
+    "usage_count": 500
+  },
+  {
+    "id": 73,
+    "title": "Marketing campaign template 73",
+    "description": "Versatile advertising template designed for campaign 73, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-12-25T10:09:46.008792",
+    "usage_count": 40
+  },
+  {
+    "id": 74,
+    "title": "Marketing campaign template 74",
+    "description": "Versatile advertising template designed for campaign 74, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-06-27T10:09:46.008792",
+    "usage_count": 57
+  },
+  {
+    "id": 75,
+    "title": "Marketing campaign template 75",
+    "description": "Versatile advertising template designed for campaign 75, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-05-25T10:09:46.008792",
+    "usage_count": 334
+  },
+  {
+    "id": 76,
+    "title": "Marketing campaign template 76",
+    "description": "Versatile advertising template designed for campaign 76, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-01-15T10:09:46.008792",
+    "usage_count": 405
+  },
+  {
+    "id": 77,
+    "title": "Marketing campaign template 77",
+    "description": "Versatile advertising template designed for campaign 77, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-15T10:09:46.008792",
+    "usage_count": 316
+  },
+  {
+    "id": 78,
+    "title": "Marketing campaign template 78",
+    "description": "Versatile advertising template designed for campaign 78, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-22T10:09:46.008792",
+    "usage_count": 264
+  },
+  {
+    "id": 79,
+    "title": "Marketing campaign template 79",
+    "description": "Versatile advertising template designed for campaign 79, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-16T10:09:46.008792",
+    "usage_count": 470
+  },
+  {
+    "id": 80,
+    "title": "Marketing campaign template 80",
+    "description": "Versatile advertising template designed for campaign 80, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-04-19T10:09:46.008792",
+    "usage_count": 402
+  },
+  {
+    "id": 81,
+    "title": "Marketing campaign template 81",
+    "description": "Versatile advertising template designed for campaign 81, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-07-26T10:09:46.008792",
+    "usage_count": 146
+  },
+  {
+    "id": 82,
+    "title": "Marketing campaign template 82",
+    "description": "Versatile advertising template designed for campaign 82, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-09-26T10:09:46.008792",
+    "usage_count": 172
+  },
+  {
+    "id": 83,
+    "title": "Marketing campaign template 83",
+    "description": "Versatile advertising template designed for campaign 83, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-02T10:09:46.008792",
+    "usage_count": 176
+  },
+  {
+    "id": 84,
+    "title": "Marketing campaign template 84",
+    "description": "Versatile advertising template designed for campaign 84, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-17T10:09:46.008792",
+    "usage_count": 275
+  },
+  {
+    "id": 85,
+    "title": "Marketing campaign template 85",
+    "description": "Versatile advertising template designed for campaign 85, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-18T10:09:46.008792",
+    "usage_count": 489
+  },
+  {
+    "id": 86,
+    "title": "Marketing campaign template 86",
+    "description": "Versatile advertising template designed for campaign 86, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-11T10:09:46.008792",
+    "usage_count": 0
+  },
+  {
+    "id": 87,
+    "title": "Marketing campaign template 87",
+    "description": "Versatile advertising template designed for campaign 87, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-20T10:09:46.008792",
+    "usage_count": 213
+  },
+  {
+    "id": 88,
+    "title": "Marketing campaign template 88",
+    "description": "Versatile advertising template designed for campaign 88, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-01T10:09:46.008792",
+    "usage_count": 340
+  },
+  {
+    "id": 89,
+    "title": "Marketing campaign template 89",
+    "description": "Versatile advertising template designed for campaign 89, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-09T10:09:46.008792",
+    "usage_count": 360
+  },
+  {
+    "id": 90,
+    "title": "Marketing campaign template 90",
+    "description": "Versatile advertising template designed for campaign 90, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-17T10:09:46.008792",
+    "usage_count": 90
+  },
+  {
+    "id": 91,
+    "title": "Marketing campaign template 91",
+    "description": "Versatile advertising template designed for campaign 91, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-06-05T10:09:46.008792",
+    "usage_count": 237
+  },
+  {
+    "id": 92,
+    "title": "Marketing campaign template 92",
+    "description": "Versatile advertising template designed for campaign 92, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-26T10:09:46.008792",
+    "usage_count": 424
+  },
+  {
+    "id": 93,
+    "title": "Marketing campaign template 93",
+    "description": "Versatile advertising template designed for campaign 93, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-21T10:09:46.008792",
+    "usage_count": 411
+  },
+  {
+    "id": 94,
+    "title": "Marketing campaign template 94",
+    "description": "Versatile advertising template designed for campaign 94, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-20T10:09:46.008792",
+    "usage_count": 253
+  },
+  {
+    "id": 95,
+    "title": "Marketing campaign template 95",
+    "description": "Versatile advertising template designed for campaign 95, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-23T10:09:46.008792",
+    "usage_count": 235
+  },
+  {
+    "id": 96,
+    "title": "Marketing campaign template 96",
+    "description": "Versatile advertising template designed for campaign 96, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-01-25T10:09:46.008792",
+    "usage_count": 106
+  },
+  {
+    "id": 97,
+    "title": "Marketing campaign template 97",
+    "description": "Versatile advertising template designed for campaign 97, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-24T10:09:46.008792",
+    "usage_count": 301
+  },
+  {
+    "id": 98,
+    "title": "Marketing campaign template 98",
+    "description": "Versatile advertising template designed for campaign 98, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-15T10:09:46.008792",
+    "usage_count": 337
+  },
+  {
+    "id": 99,
+    "title": "Marketing campaign template 99",
+    "description": "Versatile advertising template designed for campaign 99, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-05-02T10:09:46.008792",
+    "usage_count": 373
+  },
+  {
+    "id": 100,
+    "title": "Marketing campaign template 100",
+    "description": "Versatile advertising template designed for campaign 100, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-21T10:09:46.008792",
+    "usage_count": 351
+  },
+  {
+    "id": 101,
+    "title": "Marketing campaign template 101",
+    "description": "Versatile advertising template designed for campaign 101, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-06T10:09:46.008792",
+    "usage_count": 190
+  },
+  {
+    "id": 102,
+    "title": "Marketing campaign template 102",
+    "description": "Versatile advertising template designed for campaign 102, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-10-13T10:09:46.008792",
+    "usage_count": 72
+  },
+  {
+    "id": 103,
+    "title": "Marketing campaign template 103",
+    "description": "Versatile advertising template designed for campaign 103, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-31T10:09:46.008792",
+    "usage_count": 70
+  },
+  {
+    "id": 104,
+    "title": "Marketing campaign template 104",
+    "description": "Versatile advertising template designed for campaign 104, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-16T10:09:46.008792",
+    "usage_count": 60
+  },
+  {
+    "id": 105,
+    "title": "Marketing campaign template 105",
+    "description": "Versatile advertising template designed for campaign 105, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-07-09T10:09:46.008792",
+    "usage_count": 298
+  },
+  {
+    "id": 106,
+    "title": "Marketing campaign template 106",
+    "description": "Versatile advertising template designed for campaign 106, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-04-24T10:09:46.008792",
+    "usage_count": 23
+  },
+  {
+    "id": 107,
+    "title": "Marketing campaign template 107",
+    "description": "Versatile advertising template designed for campaign 107, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-29T10:09:46.008792",
+    "usage_count": 429
+  },
+  {
+    "id": 108,
+    "title": "Marketing campaign template 108",
+    "description": "Versatile advertising template designed for campaign 108, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-03-13T10:09:46.008792",
+    "usage_count": 27
+  },
+  {
+    "id": 109,
+    "title": "Marketing campaign template 109",
+    "description": "Versatile advertising template designed for campaign 109, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-10-26T10:09:46.008792",
+    "usage_count": 224
+  },
+  {
+    "id": 110,
+    "title": "Marketing campaign template 110",
+    "description": "Versatile advertising template designed for campaign 110, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-19T10:09:46.008792",
+    "usage_count": 399
+  },
+  {
+    "id": 111,
+    "title": "Marketing campaign template 111",
+    "description": "Versatile advertising template designed for campaign 111, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-24T10:09:46.008792",
+    "usage_count": 434
+  },
+  {
+    "id": 112,
+    "title": "Marketing campaign template 112",
+    "description": "Versatile advertising template designed for campaign 112, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-20T10:09:46.008792",
+    "usage_count": 471
+  },
+  {
+    "id": 113,
+    "title": "Marketing campaign template 113",
+    "description": "Versatile advertising template designed for campaign 113, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-25T10:09:46.008792",
+    "usage_count": 301
+  },
+  {
+    "id": 114,
+    "title": "Marketing campaign template 114",
+    "description": "Versatile advertising template designed for campaign 114, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-09-27T10:09:46.008792",
+    "usage_count": 122
+  },
+  {
+    "id": 115,
+    "title": "Marketing campaign template 115",
+    "description": "Versatile advertising template designed for campaign 115, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-18T10:09:46.008792",
+    "usage_count": 289
+  },
+  {
+    "id": 116,
+    "title": "Marketing campaign template 116",
+    "description": "Versatile advertising template designed for campaign 116, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-25T10:09:46.008792",
+    "usage_count": 75
+  },
+  {
+    "id": 117,
+    "title": "Marketing campaign template 117",
+    "description": "Versatile advertising template designed for campaign 117, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-10T10:09:46.008792",
+    "usage_count": 494
+  },
+  {
+    "id": 118,
+    "title": "Marketing campaign template 118",
+    "description": "Versatile advertising template designed for campaign 118, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-31T10:09:46.008792",
+    "usage_count": 390
+  },
+  {
+    "id": 119,
+    "title": "Marketing campaign template 119",
+    "description": "Versatile advertising template designed for campaign 119, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-28T10:09:46.008792",
+    "usage_count": 26
+  },
+  {
+    "id": 120,
+    "title": "Marketing campaign template 120",
+    "description": "Versatile advertising template designed for campaign 120, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-07T10:09:46.008792",
+    "usage_count": 83
+  },
+  {
+    "id": 121,
+    "title": "Marketing campaign template 121",
+    "description": "Versatile advertising template designed for campaign 121, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-11-13T10:09:46.008792",
+    "usage_count": 232
+  },
+  {
+    "id": 122,
+    "title": "Marketing campaign template 122",
+    "description": "Versatile advertising template designed for campaign 122, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-20T10:09:46.008792",
+    "usage_count": 401
+  },
+  {
+    "id": 123,
+    "title": "Marketing campaign template 123",
+    "description": "Versatile advertising template designed for campaign 123, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-11T10:09:46.008792",
+    "usage_count": 270
+  },
+  {
+    "id": 124,
+    "title": "Marketing campaign template 124",
+    "description": "Versatile advertising template designed for campaign 124, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-15T10:09:46.008792",
+    "usage_count": 456
+  },
+  {
+    "id": 125,
+    "title": "Marketing campaign template 125",
+    "description": "Versatile advertising template designed for campaign 125, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-07-30T10:09:46.008792",
+    "usage_count": 437
+  },
+  {
+    "id": 126,
+    "title": "Marketing campaign template 126",
+    "description": "Versatile advertising template designed for campaign 126, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-09-16T10:09:46.008792",
+    "usage_count": 302
+  },
+  {
+    "id": 127,
+    "title": "Marketing campaign template 127",
+    "description": "Versatile advertising template designed for campaign 127, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-03-31T10:09:46.008792",
+    "usage_count": 396
+  },
+  {
+    "id": 128,
+    "title": "Marketing campaign template 128",
+    "description": "Versatile advertising template designed for campaign 128, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-21T10:09:46.008792",
+    "usage_count": 476
+  },
+  {
+    "id": 129,
+    "title": "Marketing campaign template 129",
+    "description": "Versatile advertising template designed for campaign 129, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-08-01T10:09:46.008792",
+    "usage_count": 271
+  },
+  {
+    "id": 130,
+    "title": "Marketing campaign template 130",
+    "description": "Versatile advertising template designed for campaign 130, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-20T10:09:46.008792",
+    "usage_count": 328
+  },
+  {
+    "id": 131,
+    "title": "Marketing campaign template 131",
+    "description": "Versatile advertising template designed for campaign 131, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-11T10:09:46.008792",
+    "usage_count": 430
+  },
+  {
+    "id": 132,
+    "title": "Marketing campaign template 132",
+    "description": "Versatile advertising template designed for campaign 132, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-20T10:09:46.008792",
+    "usage_count": 2
+  },
+  {
+    "id": 133,
+    "title": "Marketing campaign template 133",
+    "description": "Versatile advertising template designed for campaign 133, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-11T10:09:46.008792",
+    "usage_count": 256
+  },
+  {
+    "id": 134,
+    "title": "Marketing campaign template 134",
+    "description": "Versatile advertising template designed for campaign 134, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-30T10:09:46.008792",
+    "usage_count": 414
+  },
+  {
+    "id": 135,
+    "title": "Marketing campaign template 135",
+    "description": "Versatile advertising template designed for campaign 135, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-09T10:09:46.008792",
+    "usage_count": 427
+  },
+  {
+    "id": 136,
+    "title": "Marketing campaign template 136",
+    "description": "Versatile advertising template designed for campaign 136, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-16T10:09:46.008792",
+    "usage_count": 407
+  },
+  {
+    "id": 137,
+    "title": "Marketing campaign template 137",
+    "description": "Versatile advertising template designed for campaign 137, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-28T10:09:46.008792",
+    "usage_count": 392
+  },
+  {
+    "id": 138,
+    "title": "Marketing campaign template 138",
+    "description": "Versatile advertising template designed for campaign 138, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-06-05T10:09:46.008792",
+    "usage_count": 449
+  },
+  {
+    "id": 139,
+    "title": "Marketing campaign template 139",
+    "description": "Versatile advertising template designed for campaign 139, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-11T10:09:46.008792",
+    "usage_count": 189
+  },
+  {
+    "id": 140,
+    "title": "Marketing campaign template 140",
+    "description": "Versatile advertising template designed for campaign 140, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-02T10:09:46.008792",
+    "usage_count": 336
+  },
+  {
+    "id": 141,
+    "title": "Marketing campaign template 141",
+    "description": "Versatile advertising template designed for campaign 141, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-09T10:09:46.008792",
+    "usage_count": 225
+  },
+  {
+    "id": 142,
+    "title": "Marketing campaign template 142",
+    "description": "Versatile advertising template designed for campaign 142, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-04-03T10:09:46.008792",
+    "usage_count": 439
+  },
+  {
+    "id": 143,
+    "title": "Marketing campaign template 143",
+    "description": "Versatile advertising template designed for campaign 143, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-26T10:09:46.008792",
+    "usage_count": 485
+  },
+  {
+    "id": 144,
+    "title": "Marketing campaign template 144",
+    "description": "Versatile advertising template designed for campaign 144, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-11-28T10:09:46.008792",
+    "usage_count": 170
+  },
+  {
+    "id": 145,
+    "title": "Marketing campaign template 145",
+    "description": "Versatile advertising template designed for campaign 145, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-09T10:09:46.008792",
+    "usage_count": 435
+  },
+  {
+    "id": 146,
+    "title": "Marketing campaign template 146",
+    "description": "Versatile advertising template designed for campaign 146, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-08-28T10:09:46.008792",
+    "usage_count": 389
+  },
+  {
+    "id": 147,
+    "title": "Marketing campaign template 147",
+    "description": "Versatile advertising template designed for campaign 147, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-17T10:09:46.008792",
+    "usage_count": 146
+  },
+  {
+    "id": 148,
+    "title": "Marketing campaign template 148",
+    "description": "Versatile advertising template designed for campaign 148, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-11-18T10:09:46.008792",
+    "usage_count": 297
+  },
+  {
+    "id": 149,
+    "title": "Marketing campaign template 149",
+    "description": "Versatile advertising template designed for campaign 149, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-21T10:09:46.008792",
+    "usage_count": 281
+  },
+  {
+    "id": 150,
+    "title": "Marketing campaign template 150",
+    "description": "Versatile advertising template designed for campaign 150, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-19T10:09:46.008792",
+    "usage_count": 219
+  },
+  {
+    "id": 151,
+    "title": "Marketing campaign template 151",
+    "description": "Versatile advertising template designed for campaign 151, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-12T10:09:46.008792",
+    "usage_count": 248
+  },
+  {
+    "id": 152,
+    "title": "Marketing campaign template 152",
+    "description": "Versatile advertising template designed for campaign 152, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-08-27T10:09:46.008792",
+    "usage_count": 121
+  },
+  {
+    "id": 153,
+    "title": "Marketing campaign template 153",
+    "description": "Versatile advertising template designed for campaign 153, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-08-26T10:09:46.008792",
+    "usage_count": 113
+  },
+  {
+    "id": 154,
+    "title": "Marketing campaign template 154",
+    "description": "Versatile advertising template designed for campaign 154, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-10T10:09:46.008792",
+    "usage_count": 187
+  },
+  {
+    "id": 155,
+    "title": "Marketing campaign template 155",
+    "description": "Versatile advertising template designed for campaign 155, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-11-08T10:09:46.008792",
+    "usage_count": 367
+  },
+  {
+    "id": 156,
+    "title": "Marketing campaign template 156",
+    "description": "Versatile advertising template designed for campaign 156, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-08-14T10:09:46.008792",
+    "usage_count": 0
+  },
+  {
+    "id": 157,
+    "title": "Marketing campaign template 157",
+    "description": "Versatile advertising template designed for campaign 157, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-19T10:09:46.008792",
+    "usage_count": 136
+  },
+  {
+    "id": 158,
+    "title": "Marketing campaign template 158",
+    "description": "Versatile advertising template designed for campaign 158, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-05-21T10:09:46.008792",
+    "usage_count": 49
+  },
+  {
+    "id": 159,
+    "title": "Marketing campaign template 159",
+    "description": "Versatile advertising template designed for campaign 159, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-17T10:09:46.008792",
+    "usage_count": 303
+  },
+  {
+    "id": 160,
+    "title": "Marketing campaign template 160",
+    "description": "Versatile advertising template designed for campaign 160, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-04T10:09:46.008792",
+    "usage_count": 71
+  },
+  {
+    "id": 161,
+    "title": "Marketing campaign template 161",
+    "description": "Versatile advertising template designed for campaign 161, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-07-31T10:09:46.008792",
+    "usage_count": 290
+  },
+  {
+    "id": 162,
+    "title": "Marketing campaign template 162",
+    "description": "Versatile advertising template designed for campaign 162, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-09T10:09:46.008792",
+    "usage_count": 130
+  },
+  {
+    "id": 163,
+    "title": "Marketing campaign template 163",
+    "description": "Versatile advertising template designed for campaign 163, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-23T10:09:46.008792",
+    "usage_count": 386
+  },
+  {
+    "id": 164,
+    "title": "Marketing campaign template 164",
+    "description": "Versatile advertising template designed for campaign 164, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-06-15T10:09:46.008792",
+    "usage_count": 412
+  },
+  {
+    "id": 165,
+    "title": "Marketing campaign template 165",
+    "description": "Versatile advertising template designed for campaign 165, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-05-16T10:09:46.008792",
+    "usage_count": 147
+  },
+  {
+    "id": 166,
+    "title": "Marketing campaign template 166",
+    "description": "Versatile advertising template designed for campaign 166, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-02-01T10:09:46.008792",
+    "usage_count": 450
+  },
+  {
+    "id": 167,
+    "title": "Marketing campaign template 167",
+    "description": "Versatile advertising template designed for campaign 167, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-21T10:09:46.008792",
+    "usage_count": 415
+  },
+  {
+    "id": 168,
+    "title": "Marketing campaign template 168",
+    "description": "Versatile advertising template designed for campaign 168, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-07T10:09:46.008792",
+    "usage_count": 108
+  },
+  {
+    "id": 169,
+    "title": "Marketing campaign template 169",
+    "description": "Versatile advertising template designed for campaign 169, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-10-15T10:09:46.008792",
+    "usage_count": 90
+  },
+  {
+    "id": 170,
+    "title": "Marketing campaign template 170",
+    "description": "Versatile advertising template designed for campaign 170, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-07-11T10:09:46.008792",
+    "usage_count": 323
+  },
+  {
+    "id": 171,
+    "title": "Marketing campaign template 171",
+    "description": "Versatile advertising template designed for campaign 171, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-14T10:09:46.008792",
+    "usage_count": 29
+  },
+  {
+    "id": 172,
+    "title": "Marketing campaign template 172",
+    "description": "Versatile advertising template designed for campaign 172, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-27T10:09:46.008792",
+    "usage_count": 20
+  },
+  {
+    "id": 173,
+    "title": "Marketing campaign template 173",
+    "description": "Versatile advertising template designed for campaign 173, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-19T10:09:46.008792",
+    "usage_count": 434
+  },
+  {
+    "id": 174,
+    "title": "Marketing campaign template 174",
+    "description": "Versatile advertising template designed for campaign 174, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-02-17T10:09:46.008792",
+    "usage_count": 63
+  },
+  {
+    "id": 175,
+    "title": "Marketing campaign template 175",
+    "description": "Versatile advertising template designed for campaign 175, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-06-30T10:09:46.008792",
+    "usage_count": 309
+  },
+  {
+    "id": 176,
+    "title": "Marketing campaign template 176",
+    "description": "Versatile advertising template designed for campaign 176, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-09-18T10:09:46.008792",
+    "usage_count": 79
+  },
+  {
+    "id": 177,
+    "title": "Marketing campaign template 177",
+    "description": "Versatile advertising template designed for campaign 177, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-29T10:09:46.008792",
+    "usage_count": 90
+  },
+  {
+    "id": 178,
+    "title": "Marketing campaign template 178",
+    "description": "Versatile advertising template designed for campaign 178, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-13T10:09:46.008792",
+    "usage_count": 308
+  },
+  {
+    "id": 179,
+    "title": "Marketing campaign template 179",
+    "description": "Versatile advertising template designed for campaign 179, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-14T10:09:46.008792",
+    "usage_count": 492
+  },
+  {
+    "id": 180,
+    "title": "Marketing campaign template 180",
+    "description": "Versatile advertising template designed for campaign 180, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-30T10:09:46.008792",
+    "usage_count": 225
+  },
+  {
+    "id": 181,
+    "title": "Marketing campaign template 181",
+    "description": "Versatile advertising template designed for campaign 181, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-23T10:09:46.008792",
+    "usage_count": 194
+  },
+  {
+    "id": 182,
+    "title": "Marketing campaign template 182",
+    "description": "Versatile advertising template designed for campaign 182, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-08-02T10:09:46.008792",
+    "usage_count": 221
+  },
+  {
+    "id": 183,
+    "title": "Marketing campaign template 183",
+    "description": "Versatile advertising template designed for campaign 183, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-04-28T10:09:46.008792",
+    "usage_count": 3
+  },
+  {
+    "id": 184,
+    "title": "Marketing campaign template 184",
+    "description": "Versatile advertising template designed for campaign 184, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-07-28T10:09:46.008792",
+    "usage_count": 343
+  },
+  {
+    "id": 185,
+    "title": "Marketing campaign template 185",
+    "description": "Versatile advertising template designed for campaign 185, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-10T10:09:46.008792",
+    "usage_count": 313
+  },
+  {
+    "id": 186,
+    "title": "Marketing campaign template 186",
+    "description": "Versatile advertising template designed for campaign 186, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-17T10:09:46.008792",
+    "usage_count": 286
+  },
+  {
+    "id": 187,
+    "title": "Marketing campaign template 187",
+    "description": "Versatile advertising template designed for campaign 187, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-10T10:09:46.008792",
+    "usage_count": 24
+  },
+  {
+    "id": 188,
+    "title": "Marketing campaign template 188",
+    "description": "Versatile advertising template designed for campaign 188, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-12T10:09:46.008792",
+    "usage_count": 364
+  },
+  {
+    "id": 189,
+    "title": "Marketing campaign template 189",
+    "description": "Versatile advertising template designed for campaign 189, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-01-14T10:09:46.008792",
+    "usage_count": 201
+  },
+  {
+    "id": 190,
+    "title": "Marketing campaign template 190",
+    "description": "Versatile advertising template designed for campaign 190, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-30T10:09:46.008792",
+    "usage_count": 219
+  },
+  {
+    "id": 191,
+    "title": "Marketing campaign template 191",
+    "description": "Versatile advertising template designed for campaign 191, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-01T10:09:46.008792",
+    "usage_count": 36
+  },
+  {
+    "id": 192,
+    "title": "Marketing campaign template 192",
+    "description": "Versatile advertising template designed for campaign 192, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-20T10:09:46.008792",
+    "usage_count": 462
+  },
+  {
+    "id": 193,
+    "title": "Marketing campaign template 193",
+    "description": "Versatile advertising template designed for campaign 193, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-07-04T10:09:46.008792",
+    "usage_count": 433
+  },
+  {
+    "id": 194,
+    "title": "Marketing campaign template 194",
+    "description": "Versatile advertising template designed for campaign 194, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-01-11T10:09:46.008792",
+    "usage_count": 114
+  },
+  {
+    "id": 195,
+    "title": "Marketing campaign template 195",
+    "description": "Versatile advertising template designed for campaign 195, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-07T10:09:46.008792",
+    "usage_count": 214
+  },
+  {
+    "id": 196,
+    "title": "Marketing campaign template 196",
+    "description": "Versatile advertising template designed for campaign 196, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-07T10:09:46.008792",
+    "usage_count": 305
+  },
+  {
+    "id": 197,
+    "title": "Marketing campaign template 197",
+    "description": "Versatile advertising template designed for campaign 197, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-03T10:09:46.008792",
+    "usage_count": 291
+  },
+  {
+    "id": 198,
+    "title": "Marketing campaign template 198",
+    "description": "Versatile advertising template designed for campaign 198, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-12T10:09:46.008792",
+    "usage_count": 274
+  },
+  {
+    "id": 199,
+    "title": "Marketing campaign template 199",
+    "description": "Versatile advertising template designed for campaign 199, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-31T10:09:46.008792",
+    "usage_count": 268
+  },
+  {
+    "id": 200,
+    "title": "Marketing campaign template 200",
+    "description": "Versatile advertising template designed for campaign 200, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-22T10:09:46.008792",
+    "usage_count": 333
+  },
+  {
+    "id": 201,
+    "title": "Marketing campaign template 201",
+    "description": "Versatile advertising template designed for campaign 201, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-27T10:09:46.008792",
+    "usage_count": 250
+  },
+  {
+    "id": 202,
+    "title": "Marketing campaign template 202",
+    "description": "Versatile advertising template designed for campaign 202, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-11-16T10:09:46.008792",
+    "usage_count": 478
+  },
+  {
+    "id": 203,
+    "title": "Marketing campaign template 203",
+    "description": "Versatile advertising template designed for campaign 203, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-09T10:09:46.008792",
+    "usage_count": 337
+  },
+  {
+    "id": 204,
+    "title": "Marketing campaign template 204",
+    "description": "Versatile advertising template designed for campaign 204, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-08-18T10:09:46.008792",
+    "usage_count": 36
+  },
+  {
+    "id": 205,
+    "title": "Marketing campaign template 205",
+    "description": "Versatile advertising template designed for campaign 205, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-14T10:09:46.008792",
+    "usage_count": 171
+  },
+  {
+    "id": 206,
+    "title": "Marketing campaign template 206",
+    "description": "Versatile advertising template designed for campaign 206, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-26T10:09:46.008792",
+    "usage_count": 372
+  },
+  {
+    "id": 207,
+    "title": "Marketing campaign template 207",
+    "description": "Versatile advertising template designed for campaign 207, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-01T10:09:46.008792",
+    "usage_count": 118
+  },
+  {
+    "id": 208,
+    "title": "Marketing campaign template 208",
+    "description": "Versatile advertising template designed for campaign 208, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-07-22T10:09:46.008792",
+    "usage_count": 326
+  },
+  {
+    "id": 209,
+    "title": "Marketing campaign template 209",
+    "description": "Versatile advertising template designed for campaign 209, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-02T10:09:46.008792",
+    "usage_count": 240
+  },
+  {
+    "id": 210,
+    "title": "Marketing campaign template 210",
+    "description": "Versatile advertising template designed for campaign 210, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-07-12T10:09:46.008792",
+    "usage_count": 264
+  },
+  {
+    "id": 211,
+    "title": "Marketing campaign template 211",
+    "description": "Versatile advertising template designed for campaign 211, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-10T10:09:46.008792",
+    "usage_count": 333
+  },
+  {
+    "id": 212,
+    "title": "Marketing campaign template 212",
+    "description": "Versatile advertising template designed for campaign 212, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-12T10:09:46.008792",
+    "usage_count": 104
+  },
+  {
+    "id": 213,
+    "title": "Marketing campaign template 213",
+    "description": "Versatile advertising template designed for campaign 213, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-10T10:09:46.008792",
+    "usage_count": 363
+  },
+  {
+    "id": 214,
+    "title": "Marketing campaign template 214",
+    "description": "Versatile advertising template designed for campaign 214, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-01T10:09:46.008792",
+    "usage_count": 143
+  },
+  {
+    "id": 215,
+    "title": "Marketing campaign template 215",
+    "description": "Versatile advertising template designed for campaign 215, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-09-20T10:09:46.008792",
+    "usage_count": 362
+  },
+  {
+    "id": 216,
+    "title": "Marketing campaign template 216",
+    "description": "Versatile advertising template designed for campaign 216, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-11-02T10:09:46.008792",
+    "usage_count": 30
+  },
+  {
+    "id": 217,
+    "title": "Marketing campaign template 217",
+    "description": "Versatile advertising template designed for campaign 217, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-12T10:09:46.008792",
+    "usage_count": 414
+  },
+  {
+    "id": 218,
+    "title": "Marketing campaign template 218",
+    "description": "Versatile advertising template designed for campaign 218, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-01T10:09:46.008792",
+    "usage_count": 54
+  },
+  {
+    "id": 219,
+    "title": "Marketing campaign template 219",
+    "description": "Versatile advertising template designed for campaign 219, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-04-01T10:09:46.008792",
+    "usage_count": 126
+  },
+  {
+    "id": 220,
+    "title": "Marketing campaign template 220",
+    "description": "Versatile advertising template designed for campaign 220, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-06T10:09:46.008792",
+    "usage_count": 178
+  },
+  {
+    "id": 221,
+    "title": "Marketing campaign template 221",
+    "description": "Versatile advertising template designed for campaign 221, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-07T10:09:46.008792",
+    "usage_count": 142
+  },
+  {
+    "id": 222,
+    "title": "Marketing campaign template 222",
+    "description": "Versatile advertising template designed for campaign 222, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-08-12T10:09:46.008792",
+    "usage_count": 162
+  },
+  {
+    "id": 223,
+    "title": "Marketing campaign template 223",
+    "description": "Versatile advertising template designed for campaign 223, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-07-04T10:09:46.008792",
+    "usage_count": 494
+  },
+  {
+    "id": 224,
+    "title": "Marketing campaign template 224",
+    "description": "Versatile advertising template designed for campaign 224, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-02T10:09:46.008792",
+    "usage_count": 187
+  },
+  {
+    "id": 225,
+    "title": "Marketing campaign template 225",
+    "description": "Versatile advertising template designed for campaign 225, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-08T10:09:46.008792",
+    "usage_count": 162
+  },
+  {
+    "id": 226,
+    "title": "Marketing campaign template 226",
+    "description": "Versatile advertising template designed for campaign 226, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-04-09T10:09:46.008792",
+    "usage_count": 104
+  },
+  {
+    "id": 227,
+    "title": "Marketing campaign template 227",
+    "description": "Versatile advertising template designed for campaign 227, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-12T10:09:46.008792",
+    "usage_count": 254
+  },
+  {
+    "id": 228,
+    "title": "Marketing campaign template 228",
+    "description": "Versatile advertising template designed for campaign 228, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-05-15T10:09:46.008792",
+    "usage_count": 255
+  },
+  {
+    "id": 229,
+    "title": "Marketing campaign template 229",
+    "description": "Versatile advertising template designed for campaign 229, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-06-08T10:09:46.008792",
+    "usage_count": 120
+  },
+  {
+    "id": 230,
+    "title": "Marketing campaign template 230",
+    "description": "Versatile advertising template designed for campaign 230, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-04T10:09:46.008792",
+    "usage_count": 498
+  },
+  {
+    "id": 231,
+    "title": "Marketing campaign template 231",
+    "description": "Versatile advertising template designed for campaign 231, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-16T10:09:46.008792",
+    "usage_count": 316
+  },
+  {
+    "id": 232,
+    "title": "Marketing campaign template 232",
+    "description": "Versatile advertising template designed for campaign 232, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-11T10:09:46.008792",
+    "usage_count": 22
+  },
+  {
+    "id": 233,
+    "title": "Marketing campaign template 233",
+    "description": "Versatile advertising template designed for campaign 233, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-26T10:09:46.008792",
+    "usage_count": 110
+  },
+  {
+    "id": 234,
+    "title": "Marketing campaign template 234",
+    "description": "Versatile advertising template designed for campaign 234, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-04-02T10:09:46.008792",
+    "usage_count": 241
+  },
+  {
+    "id": 235,
+    "title": "Marketing campaign template 235",
+    "description": "Versatile advertising template designed for campaign 235, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-09-30T10:09:46.008792",
+    "usage_count": 212
+  },
+  {
+    "id": 236,
+    "title": "Marketing campaign template 236",
+    "description": "Versatile advertising template designed for campaign 236, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-06-15T10:09:46.008792",
+    "usage_count": 175
+  },
+  {
+    "id": 237,
+    "title": "Marketing campaign template 237",
+    "description": "Versatile advertising template designed for campaign 237, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-26T10:09:46.008792",
+    "usage_count": 360
+  },
+  {
+    "id": 238,
+    "title": "Marketing campaign template 238",
+    "description": "Versatile advertising template designed for campaign 238, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-10-20T10:09:46.008792",
+    "usage_count": 410
+  },
+  {
+    "id": 239,
+    "title": "Marketing campaign template 239",
+    "description": "Versatile advertising template designed for campaign 239, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-03T10:09:46.008792",
+    "usage_count": 341
+  },
+  {
+    "id": 240,
+    "title": "Marketing campaign template 240",
+    "description": "Versatile advertising template designed for campaign 240, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-10-07T10:09:46.008792",
+    "usage_count": 269
+  },
+  {
+    "id": 241,
+    "title": "Marketing campaign template 241",
+    "description": "Versatile advertising template designed for campaign 241, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-01T10:09:46.008792",
+    "usage_count": 325
+  },
+  {
+    "id": 242,
+    "title": "Marketing campaign template 242",
+    "description": "Versatile advertising template designed for campaign 242, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-17T10:09:46.008792",
+    "usage_count": 234
+  },
+  {
+    "id": 243,
+    "title": "Marketing campaign template 243",
+    "description": "Versatile advertising template designed for campaign 243, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-10T10:09:46.008792",
+    "usage_count": 82
+  },
+  {
+    "id": 244,
+    "title": "Marketing campaign template 244",
+    "description": "Versatile advertising template designed for campaign 244, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-06T10:09:46.008792",
+    "usage_count": 391
+  },
+  {
+    "id": 245,
+    "title": "Marketing campaign template 245",
+    "description": "Versatile advertising template designed for campaign 245, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-08T10:09:46.008792",
+    "usage_count": 9
+  },
+  {
+    "id": 246,
+    "title": "Marketing campaign template 246",
+    "description": "Versatile advertising template designed for campaign 246, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-31T10:09:46.008792",
+    "usage_count": 228
+  },
+  {
+    "id": 247,
+    "title": "Marketing campaign template 247",
+    "description": "Versatile advertising template designed for campaign 247, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-26T10:09:46.008792",
+    "usage_count": 13
+  },
+  {
+    "id": 248,
+    "title": "Marketing campaign template 248",
+    "description": "Versatile advertising template designed for campaign 248, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-15T10:09:46.008792",
+    "usage_count": 344
+  },
+  {
+    "id": 249,
+    "title": "Marketing campaign template 249",
+    "description": "Versatile advertising template designed for campaign 249, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-18T10:09:46.008792",
+    "usage_count": 152
+  },
+  {
+    "id": 250,
+    "title": "Marketing campaign template 250",
+    "description": "Versatile advertising template designed for campaign 250, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-03T10:09:46.008792",
+    "usage_count": 444
+  },
+  {
+    "id": 251,
+    "title": "Marketing campaign template 251",
+    "description": "Versatile advertising template designed for campaign 251, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-06T10:09:46.008792",
+    "usage_count": 290
+  },
+  {
+    "id": 252,
+    "title": "Marketing campaign template 252",
+    "description": "Versatile advertising template designed for campaign 252, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-17T10:09:46.008792",
+    "usage_count": 406
+  },
+  {
+    "id": 253,
+    "title": "Marketing campaign template 253",
+    "description": "Versatile advertising template designed for campaign 253, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-25T10:09:46.008792",
+    "usage_count": 100
+  },
+  {
+    "id": 254,
+    "title": "Marketing campaign template 254",
+    "description": "Versatile advertising template designed for campaign 254, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-06-02T10:09:46.008792",
+    "usage_count": 354
+  },
+  {
+    "id": 255,
+    "title": "Marketing campaign template 255",
+    "description": "Versatile advertising template designed for campaign 255, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-12T10:09:46.008792",
+    "usage_count": 353
+  },
+  {
+    "id": 256,
+    "title": "Marketing campaign template 256",
+    "description": "Versatile advertising template designed for campaign 256, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-05-30T10:09:46.008792",
+    "usage_count": 105
+  },
+  {
+    "id": 257,
+    "title": "Marketing campaign template 257",
+    "description": "Versatile advertising template designed for campaign 257, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-06T10:09:46.008792",
+    "usage_count": 124
+  },
+  {
+    "id": 258,
+    "title": "Marketing campaign template 258",
+    "description": "Versatile advertising template designed for campaign 258, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-24T10:09:46.008792",
+    "usage_count": 119
+  },
+  {
+    "id": 259,
+    "title": "Marketing campaign template 259",
+    "description": "Versatile advertising template designed for campaign 259, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-16T10:09:46.008792",
+    "usage_count": 58
+  },
+  {
+    "id": 260,
+    "title": "Marketing campaign template 260",
+    "description": "Versatile advertising template designed for campaign 260, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-08T10:09:46.008792",
+    "usage_count": 437
+  },
+  {
+    "id": 261,
+    "title": "Marketing campaign template 261",
+    "description": "Versatile advertising template designed for campaign 261, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-03T10:09:46.008792",
+    "usage_count": 291
+  },
+  {
+    "id": 262,
+    "title": "Marketing campaign template 262",
+    "description": "Versatile advertising template designed for campaign 262, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-17T10:09:46.008792",
+    "usage_count": 424
+  },
+  {
+    "id": 263,
+    "title": "Marketing campaign template 263",
+    "description": "Versatile advertising template designed for campaign 263, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-01T10:09:46.008792",
+    "usage_count": 99
+  },
+  {
+    "id": 264,
+    "title": "Marketing campaign template 264",
+    "description": "Versatile advertising template designed for campaign 264, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-06-12T10:09:46.008792",
+    "usage_count": 19
+  },
+  {
+    "id": 265,
+    "title": "Marketing campaign template 265",
+    "description": "Versatile advertising template designed for campaign 265, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-31T10:09:46.008792",
+    "usage_count": 436
+  },
+  {
+    "id": 266,
+    "title": "Marketing campaign template 266",
+    "description": "Versatile advertising template designed for campaign 266, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-10T10:09:46.008792",
+    "usage_count": 305
+  },
+  {
+    "id": 267,
+    "title": "Marketing campaign template 267",
+    "description": "Versatile advertising template designed for campaign 267, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-22T10:09:46.008792",
+    "usage_count": 42
+  },
+  {
+    "id": 268,
+    "title": "Marketing campaign template 268",
+    "description": "Versatile advertising template designed for campaign 268, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-21T10:09:46.008792",
+    "usage_count": 143
+  },
+  {
+    "id": 269,
+    "title": "Marketing campaign template 269",
+    "description": "Versatile advertising template designed for campaign 269, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-26T10:09:46.008792",
+    "usage_count": 461
+  },
+  {
+    "id": 270,
+    "title": "Marketing campaign template 270",
+    "description": "Versatile advertising template designed for campaign 270, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-18T10:09:46.008792",
+    "usage_count": 54
+  },
+  {
+    "id": 271,
+    "title": "Marketing campaign template 271",
+    "description": "Versatile advertising template designed for campaign 271, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-24T10:09:46.008792",
+    "usage_count": 475
+  },
+  {
+    "id": 272,
+    "title": "Marketing campaign template 272",
+    "description": "Versatile advertising template designed for campaign 272, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-11-09T10:09:46.008792",
+    "usage_count": 67
+  },
+  {
+    "id": 273,
+    "title": "Marketing campaign template 273",
+    "description": "Versatile advertising template designed for campaign 273, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-21T10:09:46.008792",
+    "usage_count": 281
+  },
+  {
+    "id": 274,
+    "title": "Marketing campaign template 274",
+    "description": "Versatile advertising template designed for campaign 274, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-14T10:09:46.008792",
+    "usage_count": 456
+  },
+  {
+    "id": 275,
+    "title": "Marketing campaign template 275",
+    "description": "Versatile advertising template designed for campaign 275, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-29T10:09:46.008792",
+    "usage_count": 85
+  },
+  {
+    "id": 276,
+    "title": "Marketing campaign template 276",
+    "description": "Versatile advertising template designed for campaign 276, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-11-10T10:09:46.008792",
+    "usage_count": 133
+  },
+  {
+    "id": 277,
+    "title": "Marketing campaign template 277",
+    "description": "Versatile advertising template designed for campaign 277, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-04-06T10:09:46.008792",
+    "usage_count": 163
+  },
+  {
+    "id": 278,
+    "title": "Marketing campaign template 278",
+    "description": "Versatile advertising template designed for campaign 278, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-24T10:09:46.008792",
+    "usage_count": 452
+  },
+  {
+    "id": 279,
+    "title": "Marketing campaign template 279",
+    "description": "Versatile advertising template designed for campaign 279, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-06-25T10:09:46.008792",
+    "usage_count": 97
+  },
+  {
+    "id": 280,
+    "title": "Marketing campaign template 280",
+    "description": "Versatile advertising template designed for campaign 280, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-01-23T10:09:46.008792",
+    "usage_count": 341
+  },
+  {
+    "id": 281,
+    "title": "Marketing campaign template 281",
+    "description": "Versatile advertising template designed for campaign 281, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-18T10:09:46.008792",
+    "usage_count": 196
+  },
+  {
+    "id": 282,
+    "title": "Marketing campaign template 282",
+    "description": "Versatile advertising template designed for campaign 282, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-09-23T10:09:46.008792",
+    "usage_count": 431
+  },
+  {
+    "id": 283,
+    "title": "Marketing campaign template 283",
+    "description": "Versatile advertising template designed for campaign 283, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-14T10:09:46.008792",
+    "usage_count": 226
+  },
+  {
+    "id": 284,
+    "title": "Marketing campaign template 284",
+    "description": "Versatile advertising template designed for campaign 284, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-11-02T10:09:46.008792",
+    "usage_count": 49
+  },
+  {
+    "id": 285,
+    "title": "Marketing campaign template 285",
+    "description": "Versatile advertising template designed for campaign 285, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-30T10:09:46.008792",
+    "usage_count": 229
+  },
+  {
+    "id": 286,
+    "title": "Marketing campaign template 286",
+    "description": "Versatile advertising template designed for campaign 286, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-13T10:09:46.008792",
+    "usage_count": 204
+  },
+  {
+    "id": 287,
+    "title": "Marketing campaign template 287",
+    "description": "Versatile advertising template designed for campaign 287, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-30T10:09:46.008792",
+    "usage_count": 186
+  },
+  {
+    "id": 288,
+    "title": "Marketing campaign template 288",
+    "description": "Versatile advertising template designed for campaign 288, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-21T10:09:46.008792",
+    "usage_count": 229
+  },
+  {
+    "id": 289,
+    "title": "Marketing campaign template 289",
+    "description": "Versatile advertising template designed for campaign 289, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-21T10:09:46.008792",
+    "usage_count": 284
+  },
+  {
+    "id": 290,
+    "title": "Marketing campaign template 290",
+    "description": "Versatile advertising template designed for campaign 290, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-06-21T10:09:46.008792",
+    "usage_count": 337
+  },
+  {
+    "id": 291,
+    "title": "Marketing campaign template 291",
+    "description": "Versatile advertising template designed for campaign 291, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-02T10:09:46.008792",
+    "usage_count": 188
+  },
+  {
+    "id": 292,
+    "title": "Marketing campaign template 292",
+    "description": "Versatile advertising template designed for campaign 292, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-08-03T10:09:46.008792",
+    "usage_count": 14
+  },
+  {
+    "id": 293,
+    "title": "Marketing campaign template 293",
+    "description": "Versatile advertising template designed for campaign 293, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-01T10:09:46.008792",
+    "usage_count": 483
+  },
+  {
+    "id": 294,
+    "title": "Marketing campaign template 294",
+    "description": "Versatile advertising template designed for campaign 294, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-04-16T10:09:46.008792",
+    "usage_count": 202
+  },
+  {
+    "id": 295,
+    "title": "Marketing campaign template 295",
+    "description": "Versatile advertising template designed for campaign 295, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-11-20T10:09:46.008792",
+    "usage_count": 341
+  },
+  {
+    "id": 296,
+    "title": "Marketing campaign template 296",
+    "description": "Versatile advertising template designed for campaign 296, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-21T10:09:46.008792",
+    "usage_count": 1
+  },
+  {
+    "id": 297,
+    "title": "Marketing campaign template 297",
+    "description": "Versatile advertising template designed for campaign 297, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-09-30T10:09:46.008792",
+    "usage_count": 86
+  },
+  {
+    "id": 298,
+    "title": "Marketing campaign template 298",
+    "description": "Versatile advertising template designed for campaign 298, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-05T10:09:46.008792",
+    "usage_count": 110
+  },
+  {
+    "id": 299,
+    "title": "Marketing campaign template 299",
+    "description": "Versatile advertising template designed for campaign 299, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-26T10:09:46.008792",
+    "usage_count": 38
+  },
+  {
+    "id": 300,
+    "title": "Marketing campaign template 300",
+    "description": "Versatile advertising template designed for campaign 300, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-09-22T10:09:46.008792",
+    "usage_count": 355
+  },
+  {
+    "id": 301,
+    "title": "Marketing campaign template 301",
+    "description": "Versatile advertising template designed for campaign 301, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-12-11T10:09:46.008792",
+    "usage_count": 498
+  },
+  {
+    "id": 302,
+    "title": "Marketing campaign template 302",
+    "description": "Versatile advertising template designed for campaign 302, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-05-04T10:09:46.008792",
+    "usage_count": 155
+  },
+  {
+    "id": 303,
+    "title": "Marketing campaign template 303",
+    "description": "Versatile advertising template designed for campaign 303, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-04T10:09:46.008792",
+    "usage_count": 262
+  },
+  {
+    "id": 304,
+    "title": "Marketing campaign template 304",
+    "description": "Versatile advertising template designed for campaign 304, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-17T10:09:46.008792",
+    "usage_count": 124
+  },
+  {
+    "id": 305,
+    "title": "Marketing campaign template 305",
+    "description": "Versatile advertising template designed for campaign 305, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-28T10:09:46.008792",
+    "usage_count": 307
+  },
+  {
+    "id": 306,
+    "title": "Marketing campaign template 306",
+    "description": "Versatile advertising template designed for campaign 306, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-05-31T10:09:46.008792",
+    "usage_count": 194
+  },
+  {
+    "id": 307,
+    "title": "Marketing campaign template 307",
+    "description": "Versatile advertising template designed for campaign 307, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-06T10:09:46.008792",
+    "usage_count": 38
+  },
+  {
+    "id": 308,
+    "title": "Marketing campaign template 308",
+    "description": "Versatile advertising template designed for campaign 308, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-07T10:09:46.008792",
+    "usage_count": 394
+  },
+  {
+    "id": 309,
+    "title": "Marketing campaign template 309",
+    "description": "Versatile advertising template designed for campaign 309, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-01-06T10:09:46.008792",
+    "usage_count": 77
+  },
+  {
+    "id": 310,
+    "title": "Marketing campaign template 310",
+    "description": "Versatile advertising template designed for campaign 310, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-07T10:09:46.008792",
+    "usage_count": 34
+  },
+  {
+    "id": 311,
+    "title": "Marketing campaign template 311",
+    "description": "Versatile advertising template designed for campaign 311, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-03T10:09:46.008792",
+    "usage_count": 197
+  },
+  {
+    "id": 312,
+    "title": "Marketing campaign template 312",
+    "description": "Versatile advertising template designed for campaign 312, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-08-13T10:09:46.008792",
+    "usage_count": 54
+  },
+  {
+    "id": 313,
+    "title": "Marketing campaign template 313",
+    "description": "Versatile advertising template designed for campaign 313, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-29T10:09:46.008792",
+    "usage_count": 164
+  },
+  {
+    "id": 314,
+    "title": "Marketing campaign template 314",
+    "description": "Versatile advertising template designed for campaign 314, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-04T10:09:46.008792",
+    "usage_count": 490
+  },
+  {
+    "id": 315,
+    "title": "Marketing campaign template 315",
+    "description": "Versatile advertising template designed for campaign 315, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-09-11T10:09:46.008792",
+    "usage_count": 95
+  },
+  {
+    "id": 316,
+    "title": "Marketing campaign template 316",
+    "description": "Versatile advertising template designed for campaign 316, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-29T10:09:46.008792",
+    "usage_count": 245
+  },
+  {
+    "id": 317,
+    "title": "Marketing campaign template 317",
+    "description": "Versatile advertising template designed for campaign 317, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-10-22T10:09:46.008792",
+    "usage_count": 42
+  },
+  {
+    "id": 318,
+    "title": "Marketing campaign template 318",
+    "description": "Versatile advertising template designed for campaign 318, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-10-15T10:09:46.008792",
+    "usage_count": 31
+  },
+  {
+    "id": 319,
+    "title": "Marketing campaign template 319",
+    "description": "Versatile advertising template designed for campaign 319, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-25T10:09:46.008792",
+    "usage_count": 431
+  },
+  {
+    "id": 320,
+    "title": "Marketing campaign template 320",
+    "description": "Versatile advertising template designed for campaign 320, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-27T10:09:46.008792",
+    "usage_count": 2
+  },
+  {
+    "id": 321,
+    "title": "Marketing campaign template 321",
+    "description": "Versatile advertising template designed for campaign 321, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-12-24T10:09:46.008792",
+    "usage_count": 134
+  },
+  {
+    "id": 322,
+    "title": "Marketing campaign template 322",
+    "description": "Versatile advertising template designed for campaign 322, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2026-01-01T10:09:46.008792",
+    "usage_count": 284
+  },
+  {
+    "id": 323,
+    "title": "Marketing campaign template 323",
+    "description": "Versatile advertising template designed for campaign 323, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-17T10:09:46.008792",
+    "usage_count": 198
+  },
+  {
+    "id": 324,
+    "title": "Marketing campaign template 324",
+    "description": "Versatile advertising template designed for campaign 324, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-08T10:09:46.008792",
+    "usage_count": 41
+  },
+  {
+    "id": 325,
+    "title": "Marketing campaign template 325",
+    "description": "Versatile advertising template designed for campaign 325, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-10-09T10:09:46.008792",
+    "usage_count": 51
+  },
+  {
+    "id": 326,
+    "title": "Marketing campaign template 326",
+    "description": "Versatile advertising template designed for campaign 326, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-04T10:09:46.008792",
+    "usage_count": 101
+  },
+  {
+    "id": 327,
+    "title": "Marketing campaign template 327",
+    "description": "Versatile advertising template designed for campaign 327, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-26T10:09:46.008792",
+    "usage_count": 460
+  },
+  {
+    "id": 328,
+    "title": "Marketing campaign template 328",
+    "description": "Versatile advertising template designed for campaign 328, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-12T10:09:46.008792",
+    "usage_count": 133
+  },
+  {
+    "id": 329,
+    "title": "Marketing campaign template 329",
+    "description": "Versatile advertising template designed for campaign 329, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-08T10:09:46.008792",
+    "usage_count": 15
+  },
+  {
+    "id": 330,
+    "title": "Marketing campaign template 330",
+    "description": "Versatile advertising template designed for campaign 330, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-08T10:09:46.008792",
+    "usage_count": 111
+  },
+  {
+    "id": 331,
+    "title": "Marketing campaign template 331",
+    "description": "Versatile advertising template designed for campaign 331, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-23T10:09:46.008792",
+    "usage_count": 91
+  },
+  {
+    "id": 332,
+    "title": "Marketing campaign template 332",
+    "description": "Versatile advertising template designed for campaign 332, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-03T10:09:46.008792",
+    "usage_count": 137
+  },
+  {
+    "id": 333,
+    "title": "Marketing campaign template 333",
+    "description": "Versatile advertising template designed for campaign 333, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-10-14T10:09:46.008792",
+    "usage_count": 390
+  },
+  {
+    "id": 334,
+    "title": "Marketing campaign template 334",
+    "description": "Versatile advertising template designed for campaign 334, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-05-21T10:09:46.008792",
+    "usage_count": 361
+  },
+  {
+    "id": 335,
+    "title": "Marketing campaign template 335",
+    "description": "Versatile advertising template designed for campaign 335, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-25T10:09:46.008792",
+    "usage_count": 169
+  },
+  {
+    "id": 336,
+    "title": "Marketing campaign template 336",
+    "description": "Versatile advertising template designed for campaign 336, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-26T10:09:46.008792",
+    "usage_count": 158
+  },
+  {
+    "id": 337,
+    "title": "Marketing campaign template 337",
+    "description": "Versatile advertising template designed for campaign 337, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2026-01-01T10:09:46.008792",
+    "usage_count": 493
+  },
+  {
+    "id": 338,
+    "title": "Marketing campaign template 338",
+    "description": "Versatile advertising template designed for campaign 338, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-09T10:09:46.008792",
+    "usage_count": 435
+  },
+  {
+    "id": 339,
+    "title": "Marketing campaign template 339",
+    "description": "Versatile advertising template designed for campaign 339, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-24T10:09:46.008792",
+    "usage_count": 475
+  },
+  {
+    "id": 340,
+    "title": "Marketing campaign template 340",
+    "description": "Versatile advertising template designed for campaign 340, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-05-28T10:09:46.008792",
+    "usage_count": 267
+  },
+  {
+    "id": 341,
+    "title": "Marketing campaign template 341",
+    "description": "Versatile advertising template designed for campaign 341, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-10-22T10:09:46.008792",
+    "usage_count": 260
+  },
+  {
+    "id": 342,
+    "title": "Marketing campaign template 342",
+    "description": "Versatile advertising template designed for campaign 342, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-25T10:09:46.008792",
+    "usage_count": 383
+  },
+  {
+    "id": 343,
+    "title": "Marketing campaign template 343",
+    "description": "Versatile advertising template designed for campaign 343, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-18T10:09:46.008792",
+    "usage_count": 114
+  },
+  {
+    "id": 344,
+    "title": "Marketing campaign template 344",
+    "description": "Versatile advertising template designed for campaign 344, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-12T10:09:46.008792",
+    "usage_count": 58
+  },
+  {
+    "id": 345,
+    "title": "Marketing campaign template 345",
+    "description": "Versatile advertising template designed for campaign 345, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-06-08T10:09:46.008792",
+    "usage_count": 475
+  },
+  {
+    "id": 346,
+    "title": "Marketing campaign template 346",
+    "description": "Versatile advertising template designed for campaign 346, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-03-24T10:09:46.008792",
+    "usage_count": 0
+  },
+  {
+    "id": 347,
+    "title": "Marketing campaign template 347",
+    "description": "Versatile advertising template designed for campaign 347, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-05-30T10:09:46.008792",
+    "usage_count": 36
+  },
+  {
+    "id": 348,
+    "title": "Marketing campaign template 348",
+    "description": "Versatile advertising template designed for campaign 348, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-23T10:09:46.008792",
+    "usage_count": 338
+  },
+  {
+    "id": 349,
+    "title": "Marketing campaign template 349",
+    "description": "Versatile advertising template designed for campaign 349, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-28T10:09:46.008792",
+    "usage_count": 340
+  },
+  {
+    "id": 350,
+    "title": "Marketing campaign template 350",
+    "description": "Versatile advertising template designed for campaign 350, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-07-12T10:09:46.008792",
+    "usage_count": 267
+  },
+  {
+    "id": 351,
+    "title": "Marketing campaign template 351",
+    "description": "Versatile advertising template designed for campaign 351, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-19T10:09:46.008792",
+    "usage_count": 198
+  },
+  {
+    "id": 352,
+    "title": "Marketing campaign template 352",
+    "description": "Versatile advertising template designed for campaign 352, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-28T10:09:46.008792",
+    "usage_count": 331
+  },
+  {
+    "id": 353,
+    "title": "Marketing campaign template 353",
+    "description": "Versatile advertising template designed for campaign 353, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-12T10:09:46.008792",
+    "usage_count": 478
+  },
+  {
+    "id": 354,
+    "title": "Marketing campaign template 354",
+    "description": "Versatile advertising template designed for campaign 354, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-23T10:09:46.008792",
+    "usage_count": 23
+  },
+  {
+    "id": 355,
+    "title": "Marketing campaign template 355",
+    "description": "Versatile advertising template designed for campaign 355, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-10T10:09:46.008792",
+    "usage_count": 0
+  },
+  {
+    "id": 356,
+    "title": "Marketing campaign template 356",
+    "description": "Versatile advertising template designed for campaign 356, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-09-08T10:09:46.008792",
+    "usage_count": 211
+  },
+  {
+    "id": 357,
+    "title": "Marketing campaign template 357",
+    "description": "Versatile advertising template designed for campaign 357, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-15T10:09:46.008792",
+    "usage_count": 314
+  },
+  {
+    "id": 358,
+    "title": "Marketing campaign template 358",
+    "description": "Versatile advertising template designed for campaign 358, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-04-12T10:09:46.008792",
+    "usage_count": 154
+  },
+  {
+    "id": 359,
+    "title": "Marketing campaign template 359",
+    "description": "Versatile advertising template designed for campaign 359, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-05-11T10:09:46.008792",
+    "usage_count": 159
+  },
+  {
+    "id": 360,
+    "title": "Marketing campaign template 360",
+    "description": "Versatile advertising template designed for campaign 360, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-05T10:09:46.008792",
+    "usage_count": 194
+  },
+  {
+    "id": 361,
+    "title": "Marketing campaign template 361",
+    "description": "Versatile advertising template designed for campaign 361, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-07-17T10:09:46.008792",
+    "usage_count": 226
+  },
+  {
+    "id": 362,
+    "title": "Marketing campaign template 362",
+    "description": "Versatile advertising template designed for campaign 362, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-29T10:09:46.008792",
+    "usage_count": 306
+  },
+  {
+    "id": 363,
+    "title": "Marketing campaign template 363",
+    "description": "Versatile advertising template designed for campaign 363, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-27T10:09:46.008792",
+    "usage_count": 188
+  },
+  {
+    "id": 364,
+    "title": "Marketing campaign template 364",
+    "description": "Versatile advertising template designed for campaign 364, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-09T10:09:46.008792",
+    "usage_count": 216
+  },
+  {
+    "id": 365,
+    "title": "Marketing campaign template 365",
+    "description": "Versatile advertising template designed for campaign 365, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-01-30T10:09:46.008792",
+    "usage_count": 97
+  },
+  {
+    "id": 366,
+    "title": "Marketing campaign template 366",
+    "description": "Versatile advertising template designed for campaign 366, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-08-04T10:09:46.008792",
+    "usage_count": 279
+  },
+  {
+    "id": 367,
+    "title": "Marketing campaign template 367",
+    "description": "Versatile advertising template designed for campaign 367, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-10-19T10:09:46.008792",
+    "usage_count": 331
+  },
+  {
+    "id": 368,
+    "title": "Marketing campaign template 368",
+    "description": "Versatile advertising template designed for campaign 368, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-09-11T10:09:46.008792",
+    "usage_count": 432
+  },
+  {
+    "id": 369,
+    "title": "Marketing campaign template 369",
+    "description": "Versatile advertising template designed for campaign 369, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-12-06T10:09:46.008792",
+    "usage_count": 174
+  },
+  {
+    "id": 370,
+    "title": "Marketing campaign template 370",
+    "description": "Versatile advertising template designed for campaign 370, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-27T10:09:46.008792",
+    "usage_count": 27
+  },
+  {
+    "id": 371,
+    "title": "Marketing campaign template 371",
+    "description": "Versatile advertising template designed for campaign 371, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-24T10:09:46.008792",
+    "usage_count": 472
+  },
+  {
+    "id": 372,
+    "title": "Marketing campaign template 372",
+    "description": "Versatile advertising template designed for campaign 372, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-12-19T10:09:46.008792",
+    "usage_count": 328
+  },
+  {
+    "id": 373,
+    "title": "Marketing campaign template 373",
+    "description": "Versatile advertising template designed for campaign 373, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-27T10:09:46.008792",
+    "usage_count": 141
+  },
+  {
+    "id": 374,
+    "title": "Marketing campaign template 374",
+    "description": "Versatile advertising template designed for campaign 374, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-20T10:09:46.008792",
+    "usage_count": 261
+  },
+  {
+    "id": 375,
+    "title": "Marketing campaign template 375",
+    "description": "Versatile advertising template designed for campaign 375, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-10-11T10:09:46.008792",
+    "usage_count": 480
+  },
+  {
+    "id": 376,
+    "title": "Marketing campaign template 376",
+    "description": "Versatile advertising template designed for campaign 376, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-25T10:09:46.008792",
+    "usage_count": 343
+  },
+  {
+    "id": 377,
+    "title": "Marketing campaign template 377",
+    "description": "Versatile advertising template designed for campaign 377, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-15T10:09:46.008792",
+    "usage_count": 410
+  },
+  {
+    "id": 378,
+    "title": "Marketing campaign template 378",
+    "description": "Versatile advertising template designed for campaign 378, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-10T10:09:46.008792",
+    "usage_count": 32
+  },
+  {
+    "id": 379,
+    "title": "Marketing campaign template 379",
+    "description": "Versatile advertising template designed for campaign 379, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-09-22T10:09:46.008792",
+    "usage_count": 71
+  },
+  {
+    "id": 380,
+    "title": "Marketing campaign template 380",
+    "description": "Versatile advertising template designed for campaign 380, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-02-08T10:09:46.008792",
+    "usage_count": 378
+  },
+  {
+    "id": 381,
+    "title": "Marketing campaign template 381",
+    "description": "Versatile advertising template designed for campaign 381, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-10-21T10:09:46.008792",
+    "usage_count": 170
+  },
+  {
+    "id": 382,
+    "title": "Marketing campaign template 382",
+    "description": "Versatile advertising template designed for campaign 382, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-23T10:09:46.008792",
+    "usage_count": 214
+  },
+  {
+    "id": 383,
+    "title": "Marketing campaign template 383",
+    "description": "Versatile advertising template designed for campaign 383, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-16T10:09:46.008792",
+    "usage_count": 449
+  },
+  {
+    "id": 384,
+    "title": "Marketing campaign template 384",
+    "description": "Versatile advertising template designed for campaign 384, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-22T10:09:46.008792",
+    "usage_count": 61
+  },
+  {
+    "id": 385,
+    "title": "Marketing campaign template 385",
+    "description": "Versatile advertising template designed for campaign 385, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-04T10:09:46.008792",
+    "usage_count": 6
+  },
+  {
+    "id": 386,
+    "title": "Marketing campaign template 386",
+    "description": "Versatile advertising template designed for campaign 386, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-02-03T10:09:46.008792",
+    "usage_count": 20
+  },
+  {
+    "id": 387,
+    "title": "Marketing campaign template 387",
+    "description": "Versatile advertising template designed for campaign 387, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-02T10:09:46.008792",
+    "usage_count": 470
+  },
+  {
+    "id": 388,
+    "title": "Marketing campaign template 388",
+    "description": "Versatile advertising template designed for campaign 388, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-30T10:09:46.008792",
+    "usage_count": 130
+  },
+  {
+    "id": 389,
+    "title": "Marketing campaign template 389",
+    "description": "Versatile advertising template designed for campaign 389, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-13T10:09:46.008792",
+    "usage_count": 152
+  },
+  {
+    "id": 390,
+    "title": "Marketing campaign template 390",
+    "description": "Versatile advertising template designed for campaign 390, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-24T10:09:46.008792",
+    "usage_count": 327
+  },
+  {
+    "id": 391,
+    "title": "Marketing campaign template 391",
+    "description": "Versatile advertising template designed for campaign 391, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-29T10:09:46.008792",
+    "usage_count": 351
+  },
+  {
+    "id": 392,
+    "title": "Marketing campaign template 392",
+    "description": "Versatile advertising template designed for campaign 392, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-07T10:09:46.008792",
+    "usage_count": 327
+  },
+  {
+    "id": 393,
+    "title": "Marketing campaign template 393",
+    "description": "Versatile advertising template designed for campaign 393, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-03T10:09:46.008792",
+    "usage_count": 480
+  },
+  {
+    "id": 394,
+    "title": "Marketing campaign template 394",
+    "description": "Versatile advertising template designed for campaign 394, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-08-07T10:09:46.008792",
+    "usage_count": 348
+  },
+  {
+    "id": 395,
+    "title": "Marketing campaign template 395",
+    "description": "Versatile advertising template designed for campaign 395, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-03-15T10:09:46.008792",
+    "usage_count": 206
+  },
+  {
+    "id": 396,
+    "title": "Marketing campaign template 396",
+    "description": "Versatile advertising template designed for campaign 396, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-03-26T10:09:46.008792",
+    "usage_count": 324
+  },
+  {
+    "id": 397,
+    "title": "Marketing campaign template 397",
+    "description": "Versatile advertising template designed for campaign 397, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-19T10:09:46.008792",
+    "usage_count": 213
+  },
+  {
+    "id": 398,
+    "title": "Marketing campaign template 398",
+    "description": "Versatile advertising template designed for campaign 398, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-26T10:09:46.008792",
+    "usage_count": 421
+  },
+  {
+    "id": 399,
+    "title": "Marketing campaign template 399",
+    "description": "Versatile advertising template designed for campaign 399, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-08T10:09:46.008792",
+    "usage_count": 262
+  },
+  {
+    "id": 400,
+    "title": "Marketing campaign template 400",
+    "description": "Versatile advertising template designed for campaign 400, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-01-16T10:09:46.008792",
+    "usage_count": 414
+  },
+  {
+    "id": 401,
+    "title": "Marketing campaign template 401",
+    "description": "Versatile advertising template designed for campaign 401, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-09T10:09:46.008792",
+    "usage_count": 418
+  },
+  {
+    "id": 402,
+    "title": "Marketing campaign template 402",
+    "description": "Versatile advertising template designed for campaign 402, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-20T10:09:46.008792",
+    "usage_count": 185
+  },
+  {
+    "id": 403,
+    "title": "Marketing campaign template 403",
+    "description": "Versatile advertising template designed for campaign 403, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-12-11T10:09:46.008792",
+    "usage_count": 0
+  },
+  {
+    "id": 404,
+    "title": "Marketing campaign template 404",
+    "description": "Versatile advertising template designed for campaign 404, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-25T10:09:46.008792",
+    "usage_count": 338
+  },
+  {
+    "id": 405,
+    "title": "Marketing campaign template 405",
+    "description": "Versatile advertising template designed for campaign 405, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-20T10:09:46.008792",
+    "usage_count": 368
+  },
+  {
+    "id": 406,
+    "title": "Marketing campaign template 406",
+    "description": "Versatile advertising template designed for campaign 406, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-11T10:09:46.008792",
+    "usage_count": 325
+  },
+  {
+    "id": 407,
+    "title": "Marketing campaign template 407",
+    "description": "Versatile advertising template designed for campaign 407, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-28T10:09:46.008792",
+    "usage_count": 36
+  },
+  {
+    "id": 408,
+    "title": "Marketing campaign template 408",
+    "description": "Versatile advertising template designed for campaign 408, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-06-18T10:09:46.008792",
+    "usage_count": 371
+  },
+  {
+    "id": 409,
+    "title": "Marketing campaign template 409",
+    "description": "Versatile advertising template designed for campaign 409, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-15T10:09:46.008792",
+    "usage_count": 463
+  },
+  {
+    "id": 410,
+    "title": "Marketing campaign template 410",
+    "description": "Versatile advertising template designed for campaign 410, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-11-07T10:09:46.008792",
+    "usage_count": 444
+  },
+  {
+    "id": 411,
+    "title": "Marketing campaign template 411",
+    "description": "Versatile advertising template designed for campaign 411, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-04T10:09:46.008792",
+    "usage_count": 11
+  },
+  {
+    "id": 412,
+    "title": "Marketing campaign template 412",
+    "description": "Versatile advertising template designed for campaign 412, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-24T10:09:46.008792",
+    "usage_count": 450
+  },
+  {
+    "id": 413,
+    "title": "Marketing campaign template 413",
+    "description": "Versatile advertising template designed for campaign 413, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-16T10:09:46.008792",
+    "usage_count": 167
+  },
+  {
+    "id": 414,
+    "title": "Marketing campaign template 414",
+    "description": "Versatile advertising template designed for campaign 414, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-03-14T10:09:46.008792",
+    "usage_count": 469
+  },
+  {
+    "id": 415,
+    "title": "Marketing campaign template 415",
+    "description": "Versatile advertising template designed for campaign 415, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-08T10:09:46.008792",
+    "usage_count": 38
+  },
+  {
+    "id": 416,
+    "title": "Marketing campaign template 416",
+    "description": "Versatile advertising template designed for campaign 416, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-08-24T10:09:46.008792",
+    "usage_count": 225
+  },
+  {
+    "id": 417,
+    "title": "Marketing campaign template 417",
+    "description": "Versatile advertising template designed for campaign 417, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-18T10:09:46.008792",
+    "usage_count": 463
+  },
+  {
+    "id": 418,
+    "title": "Marketing campaign template 418",
+    "description": "Versatile advertising template designed for campaign 418, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-06-12T10:09:46.008792",
+    "usage_count": 171
+  },
+  {
+    "id": 419,
+    "title": "Marketing campaign template 419",
+    "description": "Versatile advertising template designed for campaign 419, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-06-11T10:09:46.008792",
+    "usage_count": 486
+  },
+  {
+    "id": 420,
+    "title": "Marketing campaign template 420",
+    "description": "Versatile advertising template designed for campaign 420, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-19T10:09:46.008792",
+    "usage_count": 290
+  },
+  {
+    "id": 421,
+    "title": "Marketing campaign template 421",
+    "description": "Versatile advertising template designed for campaign 421, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-16T10:09:46.008792",
+    "usage_count": 3
+  },
+  {
+    "id": 422,
+    "title": "Marketing campaign template 422",
+    "description": "Versatile advertising template designed for campaign 422, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-01-23T10:09:46.008792",
+    "usage_count": 281
+  },
+  {
+    "id": 423,
+    "title": "Marketing campaign template 423",
+    "description": "Versatile advertising template designed for campaign 423, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-05-03T10:09:46.008792",
+    "usage_count": 151
+  },
+  {
+    "id": 424,
+    "title": "Marketing campaign template 424",
+    "description": "Versatile advertising template designed for campaign 424, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-06T10:09:46.008792",
+    "usage_count": 309
+  },
+  {
+    "id": 425,
+    "title": "Marketing campaign template 425",
+    "description": "Versatile advertising template designed for campaign 425, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-02-20T10:09:46.008792",
+    "usage_count": 336
+  },
+  {
+    "id": 426,
+    "title": "Marketing campaign template 426",
+    "description": "Versatile advertising template designed for campaign 426, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-06-26T10:09:46.008792",
+    "usage_count": 138
+  },
+  {
+    "id": 427,
+    "title": "Marketing campaign template 427",
+    "description": "Versatile advertising template designed for campaign 427, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-01-03T10:09:46.008792",
+    "usage_count": 312
+  },
+  {
+    "id": 428,
+    "title": "Marketing campaign template 428",
+    "description": "Versatile advertising template designed for campaign 428, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-03-14T10:09:46.008792",
+    "usage_count": 482
+  },
+  {
+    "id": 429,
+    "title": "Marketing campaign template 429",
+    "description": "Versatile advertising template designed for campaign 429, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-10-12T10:09:46.008792",
+    "usage_count": 187
+  },
+  {
+    "id": 430,
+    "title": "Marketing campaign template 430",
+    "description": "Versatile advertising template designed for campaign 430, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-08T10:09:46.008792",
+    "usage_count": 177
+  },
+  {
+    "id": 431,
+    "title": "Marketing campaign template 431",
+    "description": "Versatile advertising template designed for campaign 431, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-07-05T10:09:46.008792",
+    "usage_count": 459
+  },
+  {
+    "id": 432,
+    "title": "Marketing campaign template 432",
+    "description": "Versatile advertising template designed for campaign 432, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-03-15T10:09:46.008792",
+    "usage_count": 22
+  },
+  {
+    "id": 433,
+    "title": "Marketing campaign template 433",
+    "description": "Versatile advertising template designed for campaign 433, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-07-31T10:09:46.008792",
+    "usage_count": 481
+  },
+  {
+    "id": 434,
+    "title": "Marketing campaign template 434",
+    "description": "Versatile advertising template designed for campaign 434, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-01-04T10:09:46.008792",
+    "usage_count": 274
+  },
+  {
+    "id": 435,
+    "title": "Marketing campaign template 435",
+    "description": "Versatile advertising template designed for campaign 435, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-04T10:09:46.008792",
+    "usage_count": 1
+  },
+  {
+    "id": 436,
+    "title": "Marketing campaign template 436",
+    "description": "Versatile advertising template designed for campaign 436, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-07-27T10:09:46.008792",
+    "usage_count": 128
+  },
+  {
+    "id": 437,
+    "title": "Marketing campaign template 437",
+    "description": "Versatile advertising template designed for campaign 437, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2026-01-01T10:09:46.008792",
+    "usage_count": 176
+  },
+  {
+    "id": 438,
+    "title": "Marketing campaign template 438",
+    "description": "Versatile advertising template designed for campaign 438, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-29T10:09:46.008792",
+    "usage_count": 333
+  },
+  {
+    "id": 439,
+    "title": "Marketing campaign template 439",
+    "description": "Versatile advertising template designed for campaign 439, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-07T10:09:46.008792",
+    "usage_count": 440
+  },
+  {
+    "id": 440,
+    "title": "Marketing campaign template 440",
+    "description": "Versatile advertising template designed for campaign 440, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-09-30T10:09:46.008792",
+    "usage_count": 78
+  },
+  {
+    "id": 441,
+    "title": "Marketing campaign template 441",
+    "description": "Versatile advertising template designed for campaign 441, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-12-09T10:09:46.008792",
+    "usage_count": 389
+  },
+  {
+    "id": 442,
+    "title": "Marketing campaign template 442",
+    "description": "Versatile advertising template designed for campaign 442, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-01-03T10:09:46.008792",
+    "usage_count": 253
+  },
+  {
+    "id": 443,
+    "title": "Marketing campaign template 443",
+    "description": "Versatile advertising template designed for campaign 443, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-04-06T10:09:46.008792",
+    "usage_count": 383
+  },
+  {
+    "id": 444,
+    "title": "Marketing campaign template 444",
+    "description": "Versatile advertising template designed for campaign 444, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-09T10:09:46.008792",
+    "usage_count": 48
+  },
+  {
+    "id": 445,
+    "title": "Marketing campaign template 445",
+    "description": "Versatile advertising template designed for campaign 445, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-16T10:09:46.008792",
+    "usage_count": 226
+  },
+  {
+    "id": 446,
+    "title": "Marketing campaign template 446",
+    "description": "Versatile advertising template designed for campaign 446, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-28T10:09:46.008792",
+    "usage_count": 112
+  },
+  {
+    "id": 447,
+    "title": "Marketing campaign template 447",
+    "description": "Versatile advertising template designed for campaign 447, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-11-30T10:09:46.008792",
+    "usage_count": 11
+  },
+  {
+    "id": 448,
+    "title": "Marketing campaign template 448",
+    "description": "Versatile advertising template designed for campaign 448, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-10-12T10:09:46.008792",
+    "usage_count": 105
+  },
+  {
+    "id": 449,
+    "title": "Marketing campaign template 449",
+    "description": "Versatile advertising template designed for campaign 449, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-05-10T10:09:46.008792",
+    "usage_count": 441
+  },
+  {
+    "id": 450,
+    "title": "Marketing campaign template 450",
+    "description": "Versatile advertising template designed for campaign 450, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-08-01T10:09:46.008792",
+    "usage_count": 378
+  },
+  {
+    "id": 451,
+    "title": "Marketing campaign template 451",
+    "description": "Versatile advertising template designed for campaign 451, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-03T10:09:46.008792",
+    "usage_count": 73
+  },
+  {
+    "id": 452,
+    "title": "Marketing campaign template 452",
+    "description": "Versatile advertising template designed for campaign 452, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-06-06T10:09:46.008792",
+    "usage_count": 138
+  },
+  {
+    "id": 453,
+    "title": "Marketing campaign template 453",
+    "description": "Versatile advertising template designed for campaign 453, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-09T10:09:46.008792",
+    "usage_count": 85
+  },
+  {
+    "id": 454,
+    "title": "Marketing campaign template 454",
+    "description": "Versatile advertising template designed for campaign 454, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-08-11T10:09:46.008792",
+    "usage_count": 82
+  },
+  {
+    "id": 455,
+    "title": "Marketing campaign template 455",
+    "description": "Versatile advertising template designed for campaign 455, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-10-21T10:09:46.008792",
+    "usage_count": 255
+  },
+  {
+    "id": 456,
+    "title": "Marketing campaign template 456",
+    "description": "Versatile advertising template designed for campaign 456, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-28T10:09:46.008792",
+    "usage_count": 329
+  },
+  {
+    "id": 457,
+    "title": "Marketing campaign template 457",
+    "description": "Versatile advertising template designed for campaign 457, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-17T10:09:46.008792",
+    "usage_count": 494
+  },
+  {
+    "id": 458,
+    "title": "Marketing campaign template 458",
+    "description": "Versatile advertising template designed for campaign 458, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-15T10:09:46.008792",
+    "usage_count": 366
+  },
+  {
+    "id": 459,
+    "title": "Marketing campaign template 459",
+    "description": "Versatile advertising template designed for campaign 459, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-02-07T10:09:46.008792",
+    "usage_count": 378
+  },
+  {
+    "id": 460,
+    "title": "Marketing campaign template 460",
+    "description": "Versatile advertising template designed for campaign 460, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-12-16T10:09:46.008792",
+    "usage_count": 144
+  },
+  {
+    "id": 461,
+    "title": "Marketing campaign template 461",
+    "description": "Versatile advertising template designed for campaign 461, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-05-22T10:09:46.008792",
+    "usage_count": 473
+  },
+  {
+    "id": 462,
+    "title": "Marketing campaign template 462",
+    "description": "Versatile advertising template designed for campaign 462, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-11-08T10:09:46.008792",
+    "usage_count": 492
+  },
+  {
+    "id": 463,
+    "title": "Marketing campaign template 463",
+    "description": "Versatile advertising template designed for campaign 463, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-10-05T10:09:46.008792",
+    "usage_count": 86
+  },
+  {
+    "id": 464,
+    "title": "Marketing campaign template 464",
+    "description": "Versatile advertising template designed for campaign 464, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-07-12T10:09:46.008792",
+    "usage_count": 211
+  },
+  {
+    "id": 465,
+    "title": "Marketing campaign template 465",
+    "description": "Versatile advertising template designed for campaign 465, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-29T10:09:46.008792",
+    "usage_count": 148
+  },
+  {
+    "id": 466,
+    "title": "Marketing campaign template 466",
+    "description": "Versatile advertising template designed for campaign 466, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-23T10:09:46.008792",
+    "usage_count": 239
+  },
+  {
+    "id": 467,
+    "title": "Marketing campaign template 467",
+    "description": "Versatile advertising template designed for campaign 467, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-06T10:09:46.008792",
+    "usage_count": 235
+  },
+  {
+    "id": 468,
+    "title": "Marketing campaign template 468",
+    "description": "Versatile advertising template designed for campaign 468, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-10-06T10:09:46.008792",
+    "usage_count": 294
+  },
+  {
+    "id": 469,
+    "title": "Marketing campaign template 469",
+    "description": "Versatile advertising template designed for campaign 469, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-18T10:09:46.008792",
+    "usage_count": 247
+  },
+  {
+    "id": 470,
+    "title": "Marketing campaign template 470",
+    "description": "Versatile advertising template designed for campaign 470, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-07-20T10:09:46.008792",
+    "usage_count": 381
+  },
+  {
+    "id": 471,
+    "title": "Marketing campaign template 471",
+    "description": "Versatile advertising template designed for campaign 471, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-19T10:09:46.008792",
+    "usage_count": 297
+  },
+  {
+    "id": 472,
+    "title": "Marketing campaign template 472",
+    "description": "Versatile advertising template designed for campaign 472, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-03-14T10:09:46.008792",
+    "usage_count": 151
+  },
+  {
+    "id": 473,
+    "title": "Marketing campaign template 473",
+    "description": "Versatile advertising template designed for campaign 473, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-12-26T10:09:46.008792",
+    "usage_count": 160
+  },
+  {
+    "id": 474,
+    "title": "Marketing campaign template 474",
+    "description": "Versatile advertising template designed for campaign 474, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-06-09T10:09:46.008792",
+    "usage_count": 57
+  },
+  {
+    "id": 475,
+    "title": "Marketing campaign template 475",
+    "description": "Versatile advertising template designed for campaign 475, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-06-21T10:09:46.008792",
+    "usage_count": 59
+  },
+  {
+    "id": 476,
+    "title": "Marketing campaign template 476",
+    "description": "Versatile advertising template designed for campaign 476, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-12-18T10:09:46.008792",
+    "usage_count": 488
+  },
+  {
+    "id": 477,
+    "title": "Marketing campaign template 477",
+    "description": "Versatile advertising template designed for campaign 477, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-30T10:09:46.008792",
+    "usage_count": 91
+  },
+  {
+    "id": 478,
+    "title": "Marketing campaign template 478",
+    "description": "Versatile advertising template designed for campaign 478, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-08-08T10:09:46.008792",
+    "usage_count": 338
+  },
+  {
+    "id": 479,
+    "title": "Marketing campaign template 479",
+    "description": "Versatile advertising template designed for campaign 479, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-02-09T10:09:46.008792",
+    "usage_count": 253
+  },
+  {
+    "id": 480,
+    "title": "Marketing campaign template 480",
+    "description": "Versatile advertising template designed for campaign 480, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-01-19T10:09:46.008792",
+    "usage_count": 334
+  },
+  {
+    "id": 481,
+    "title": "Marketing campaign template 481",
+    "description": "Versatile advertising template designed for campaign 481, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-05T10:09:46.008792",
+    "usage_count": 74
+  },
+  {
+    "id": 482,
+    "title": "Marketing campaign template 482",
+    "description": "Versatile advertising template designed for campaign 482, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-04-22T10:09:46.008792",
+    "usage_count": 379
+  },
+  {
+    "id": 483,
+    "title": "Marketing campaign template 483",
+    "description": "Versatile advertising template designed for campaign 483, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-17T10:09:46.008792",
+    "usage_count": 281
+  },
+  {
+    "id": 484,
+    "title": "Marketing campaign template 484",
+    "description": "Versatile advertising template designed for campaign 484, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-09-05T10:09:46.008792",
+    "usage_count": 254
+  },
+  {
+    "id": 485,
+    "title": "Marketing campaign template 485",
+    "description": "Versatile advertising template designed for campaign 485, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-03-02T10:09:46.008792",
+    "usage_count": 58
+  },
+  {
+    "id": 486,
+    "title": "Marketing campaign template 486",
+    "description": "Versatile advertising template designed for campaign 486, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2026-01-01T10:09:46.008792",
+    "usage_count": 438
+  },
+  {
+    "id": 487,
+    "title": "Marketing campaign template 487",
+    "description": "Versatile advertising template designed for campaign 487, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-11T10:09:46.008792",
+    "usage_count": 159
+  },
+  {
+    "id": 488,
+    "title": "Marketing campaign template 488",
+    "description": "Versatile advertising template designed for campaign 488, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-05-07T10:09:46.008792",
+    "usage_count": 288
+  },
+  {
+    "id": 489,
+    "title": "Marketing campaign template 489",
+    "description": "Versatile advertising template designed for campaign 489, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-04-02T10:09:46.008792",
+    "usage_count": 372
+  },
+  {
+    "id": 490,
+    "title": "Marketing campaign template 490",
+    "description": "Versatile advertising template designed for campaign 490, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "E-commerce",
+    "language": "en",
+    "created_at": "2025-07-25T10:09:46.008792",
+    "usage_count": 411
+  },
+  {
+    "id": 491,
+    "title": "Marketing campaign template 491",
+    "description": "Versatile advertising template designed for campaign 491, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-04-27T10:09:46.008792",
+    "usage_count": 428
+  },
+  {
+    "id": 492,
+    "title": "Marketing campaign template 492",
+    "description": "Versatile advertising template designed for campaign 492, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-11-19T10:09:46.008792",
+    "usage_count": 4
+  },
+  {
+    "id": 493,
+    "title": "Marketing campaign template 493",
+    "description": "Versatile advertising template designed for campaign 493, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-02-26T10:09:46.008792",
+    "usage_count": 74
+  },
+  {
+    "id": 494,
+    "title": "Marketing campaign template 494",
+    "description": "Versatile advertising template designed for campaign 494, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-26T10:09:46.008792",
+    "usage_count": 106
+  },
+  {
+    "id": 495,
+    "title": "Marketing campaign template 495",
+    "description": "Versatile advertising template designed for campaign 495, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Retail",
+    "language": "en",
+    "created_at": "2025-01-20T10:09:46.008792",
+    "usage_count": 363
+  },
+  {
+    "id": 496,
+    "title": "Marketing campaign template 496",
+    "description": "Versatile advertising template designed for campaign 496, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-09-30T10:09:46.008792",
+    "usage_count": 500
+  },
+  {
+    "id": 497,
+    "title": "Marketing campaign template 497",
+    "description": "Versatile advertising template designed for campaign 497, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Branding",
+    "language": "en",
+    "created_at": "2025-01-10T10:09:46.008792",
+    "usage_count": 182
+  },
+  {
+    "id": 498,
+    "title": "Marketing campaign template 498",
+    "description": "Versatile advertising template designed for campaign 498, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Product Launch",
+    "language": "en",
+    "created_at": "2025-04-29T10:09:46.008792",
+    "usage_count": 51
+  },
+  {
+    "id": 499,
+    "title": "Marketing campaign template 499",
+    "description": "Versatile advertising template designed for campaign 499, focused on increasing engagement, conversions, and brand visibility.",
+    "category": "Seasonal",
+    "language": "en",
+    "created_at": "2025-06-24T10:09:46.008792",
+    "usage_count": 258
+  }
+]
