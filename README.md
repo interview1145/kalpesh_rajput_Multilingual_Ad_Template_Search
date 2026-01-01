@@ -47,6 +47,20 @@ Terminal 2 : uv run streamlit run app.py
 ├── pyproject.toml          # Dependency definitions
 └── README.md               # Project documentation
 
+3. Run the Project (Two Terminals Required)
+To run the project locally with the original two-terminal architecture:
+🟢 Terminal 1: Start the Backend (FastAPI)
+This terminal runs the AI engine and data API.
+bash
+uv run uvicorn main:app --host 127.0.0.1 --port 8000 --reload
+Use code with caution.
+
+🔵 Terminal 2: Start the Frontend (Streamlit)
+This terminal runs the user interface, which connects to the backend running in Terminal 1.
+bash
+uv run streamlit run app.py
+Use code with caution.
+
 Terminal 1 : uv run uvicorn main:app --host 127.0.0.1 --port 8000 --reload
 Terminal 2 : uv run streamlit run app.py
 
